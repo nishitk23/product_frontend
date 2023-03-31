@@ -1,0 +1,1001 @@
+Product ID,Product Name,Product Category,Manufacturing Date,Manufacturing Location,MRP (USD)
+c6513194-e71f-4f84-ba6b-bcc53a91b2b3,Pathfinder,Headwear,4/18/2022,Agía Triáda,1991
+25db8b29-2626-4218-8df7-e1aa47ec1c08,CLS-Class,Headwear,11-02-2022,Longnan,5514
+fbe926aa-be3f-4db2-9afc-b45ea2e9bcd3,Sportvan G30,Eyewear,6/23/2022,Ifanadiana,3762
+dde958ae-2813-4999-83bf-cb9146b69f22,Avenger,Watch,05-05-2022,San Antonio,7043
+75945b5b-2d7a-4934-be6f-666dad14b7b5,Mazda3,Watch,5/15/2022,Zhouhe,2697
+000f61a6-a769-4f93-92de-e354c958bdd3,Vitara,Other Merch,3/17/2022,Novyy Oskol,6853
+07aa8e40-ba52-4066-84ae-dc8dbef40484,Accord,Other Merch,01-10-2023,Sanrao,5852
+f29b5cfd-406c-46ee-9844-d799e70ceb9c,V90,Headwear,12-03-2022,Banayoyo,9496
+07a7a6cb-7a4e-41ad-bcf2-54e1b8f6836d,S8,Other Merch,5/29/2022,Nonohonis,7757
+0d9082af-1a4e-44d7-b07e-14d2c82860b9,MX-6,Headwear,10/30/2022,Tsagaan-Ovoo,1169
+1387c0eb-fe28-419d-8abe-f596a858c66a,Blazer,Eyewear,2/27/2022,Wushishi,1404
+93054562-62d3-4984-9f95-0bbcedf5acff,Bravada,Headwear,8/25/2022,Muḩradah,9904
+b7d8b94d-b4f4-47f9-8e09-ec37a813df5a,Amigo,Other Merch,06-11-2022,Kotli Lohārān,2075
+1e7e77a2-96f4-494f-9d9f-e83a939e2f30,Tacoma,Headwear,02-04-2022,Zhouzhuang,6578
+0b8d6902-c78a-4af6-a74d-5c81fcf339ab,Rodeo,Eyewear,04-09-2022,Biała Piska,6431
+121cd17f-f969-4ca8-ba27-974476b9c648,X3,Watch,11/29/2022,Ringinrejo,2960
+40b7e065-95ba-41b3-acba-097a8bcf106d,F150,Headwear,07-02-2022,Paola,4553
+3eedc0cf-a0ad-48ef-b090-ef17fab9e10c,Cougar,Watch,6/23/2022,Stonewall,1250
+1d5e7d81-b17c-4f6a-9449-8fb7d7492b6f,MR2,Watch,10-11-2022,Pombal,2315
+5cf38807-625a-44bd-a148-250c3308f118,Eclipse,Other Merch,04-04-2022,Baiyang,8575
+028d4ec3-4fd3-4c9e-ae46-5e933eeeee53,Grand Prix,Other Merch,11/25/2022,Padre Burgos,1095
+7d0c2866-8882-4813-95df-a8aaa9466ffb,Montana SV6,Other Merch,8/31/2022,Rafaḩ,7279
+87a7b102-1678-4c32-bd16-428fe9c3106e,Savana 1500,Headwear,5/13/2022,Dschang,9572
+723394dd-2fa5-4637-b922-3ab6d0c21e3d,Justy,Other Merch,10-11-2022,La Loma,3983
+5bf79936-d295-44aa-a4c9-5456fba0727c,Durango,Other Merch,12/13/2022,Jianshan,1323
+8dfc7ebc-a25b-4b70-be98-aa9593bc2fd8,G37,Other Merch,7/21/2022,Nowlamary,8509
+3e5408b9-4aa0-4a5b-ba8d-3fff023af864,Tundra,Other Merch,06-06-2022,San Antonio Oeste,7027
+92ff2e1e-8a62-46ff-a439-be8a3e7aa66a,Electra,Watch,8/31/2022,Rejoyoso,4769
+6da63980-85df-41e4-8b21-0e0dbc28c595,Silhouette,Other Merch,12-10-2022,Butel,4466
+0312de85-c119-4023-8a21-a1c784173f9b,SC,Watch,7/23/2022,Altenberg bei Linz,9440
+fc41e943-cd77-4e38-8b1b-cb3def52afdf,Safari,Eyewear,3/14/2022,Saguiaran,7039
+cdccd23d-2a81-41c5-b8a1-940d8c53921e,Grand Prix Turbo,Headwear,5/18/2022,Ejmiatsin,6185
+dbfedcb3-1b01-482c-bc26-efae7b9b4529,Fusion,Headwear,08-10-2022,Shangdian,4952
+dfd9a115-6508-4ae8-ae2f-e17d4a35581f,Skyhawk,Watch,2/14/2022,Jarry,5309
+067af389-155d-4a15-ac9b-a7a3889080fb,xA,Other Merch,2/20/2022,Laventure,4702
+c5732c16-54e9-4f00-8aef-3d26e5460412,Murano,Watch,11-11-2022,Puerto Aisén,5363
+d16d851e-7d9f-4e04-bde4-fee2dd688c76,Model S,Other Merch,6/17/2022,Sinamar,8480
+b40ad5ef-49f6-4be8-9dcb-17ad14b81f9d,Yukon,Watch,09-07-2022,San Jose,3420
+6caaeca4-8fab-4454-875a-979452371107,Soul,Watch,02-07-2022,Musan-ŭp,6436
+2db1255e-8aeb-4cdc-9de9-c983747a131a,Baja,Headwear,09-08-2022,Baixi,7906
+af249e3b-6f39-42bf-bd9d-5fbcdd16f467,VUE,Watch,01-10-2023,Kýria,7945
+5be0499d-a4cf-4a43-9309-76058c5db339,Town & Country,Watch,3/31/2022,Canggetelo,2725
+b9734bb1-8dee-4e47-9aa2-7c703dfda016,Tucson,Eyewear,12/22/2022,Leiden,6124
+de799323-8bdc-4ea6-9ca1-d434481c5ad0,S-Class,Eyewear,5/24/2022,Örebro,2916
+30d839d5-7a76-474b-8b26-b4775f7d04d4,Golf,Eyewear,4/16/2022,Sigeng,9681
+e82ff655-aa7c-4e68-9c0c-a20b79ca90ac,Rodeo,Headwear,10/19/2022,Lenakapa,9494
+a10a6f1f-8b8e-4a46-9afa-b145c0e1bc07,DeVille,Other Merch,01-11-2023,Pyrgetós,4722
+9d30e4aa-a766-4757-afd8-23383b195c84,SJ,Watch,03-09-2022,Bahía Blanca,9506
+2d219b20-19fb-4cc3-9d53-ccbb1e800521,RX-7,Headwear,01-09-2023,Marjayoûn,3402
+84c72a68-a8b4-4cbf-adab-acc1e8b98e10,4Runner,Other Merch,04-08-2022,Jishigang,5338
+99415898-ff7d-4fb1-b870-2bd71ccda3b5,3 Series,Headwear,7/25/2022,Besole,2644
+929d4abe-b2ac-44ea-854e-22836cb0d828,Express 1500,Watch,12/26/2022,Cigenca,7417
+84054378-0a78-4da4-bb56-6496d2711fcd,300SL,Headwear,11/14/2022,Smilavichy,7150
+56453c42-d0c2-4b86-a056-808815b3e5b8,Prius,Watch,6/17/2022,Talibura,7513
+d483d2e3-4983-429c-ba9b-3c428baf03ad,New Beetle,Headwear,5/29/2022,San Lucas Tolimán,7511
+50f4573e-dc19-4bad-ba81-bfa6ed735895,Jetta,Other Merch,6/23/2022,Yimamu,3482
+f1502a70-56e5-475e-8097-f67a9a50c595,Prius,Watch,4/30/2022,Quipot,6683
+0ad51f2a-d161-4832-a68a-69f5b622df73,Quest,Headwear,05-12-2022,Kłomnice,3830
+0cf81a61-4650-4515-a2b0-bdeb9707d305,Maxima,Watch,05-04-2022,Kelin,8753
+8cc874c7-065a-436a-beda-bc5d22408f90,Sable,Other Merch,5/19/2022,Paris 17,3274
+31fca618-5413-4ff3-8a65-9c2a9c0c6aa2,TrailBlazer,Other Merch,4/25/2022,Polanica-Zdrój,2145
+652fa896-9f1f-4d94-b5fa-e2af8894f81b,Allante,Eyewear,5/31/2022,Plato,3418
+83def842-3c97-40bb-bd19-fa2e251303f9,Esprit,Headwear,6/20/2022,Cijayana,6848
+1edd6bf2-8b83-4981-bfde-f64d5cd996b7,Sierra 1500,Eyewear,09-08-2022,Puttalam,6990
+c1a18120-04e7-4b01-ae2f-870e6a63cb4e,CTS,Other Merch,3/13/2022,Fleury-les-Aubrais,8202
+13cbbf8e-62f0-4348-99c6-8716e5dafd05,CC,Other Merch,8/28/2022,Kuangsan,3864
+43918e70-13c9-4cc4-931a-431bc837d087,Grand Prix,Watch,11-03-2022,Yangjinzhuang,3882
+b8e2b43f-7518-4bb5-ac21-ac7c6aebf319,Q5,Watch,09-07-2022,Xichuan,9645
+b564f6f0-c7cf-4856-aa1f-1572defa100d,Town Car,Headwear,12/14/2022,Stockholm,8821
+315f2a17-4990-48d1-a7c4-bf2340a35dd7,Savana 2500,Other Merch,01-12-2023,Caotang,8947
+388abd18-85c5-4019-9c2c-de3fd5a643e1,760,Watch,08-01-2022,Xiaolongmen,6129
+e6d7ba2e-e3f5-40c3-ab65-78508f5bdc9f,Legacy,Watch,7/25/2022,Qingkenpao,5707
+ebe26aab-7595-4c86-83bb-497955b378be,Laser,Eyewear,7/13/2022,Ocumare del Tuy,9561
+124b0d4c-68f1-48fa-ac70-37bf42b46035,Cobalt,Eyewear,03-10-2022,Nkongsamba,6356
+450ab880-3dad-4e1a-87c1-b9decc60ba3a,Quattro,Headwear,8/17/2022,Lorut,9289
+c34b0029-f5b6-46c4-8064-aab3f0388f6e,Legacy,Other Merch,2/19/2022,El Águila,8286
+d666ec4e-c8a6-4e05-814f-953b0ab05573,Econoline E350,Watch,07-07-2022,Lazaro Cardenas,7243
+3b00508b-1e80-47ed-b7c6-8794efa93a00,DeVille,Other Merch,1/15/2023,Zhambyl,5752
+79294ee2-1e77-4212-9bf8-166876964554,MR2,Eyewear,12/25/2022,Złotniki,9123
+2b92742b-aaf6-4f6e-b0dd-83289a0c582b,Accent,Watch,4/26/2022,L'Assomption,9418
+4a3f2e8a-07fc-45e9-8c79-af0ac7563877,Rally Wagon 2500,Eyewear,08-04-2022,Beigou,9769
+bffdacaa-ce9f-4bd5-95c8-481164e9d4d4,Corvette,Watch,4/16/2022,Haicheng,4272
+331174f1-ff09-4aeb-8bd0-8828cb4db72f,Cooper Clubman,Headwear,8/27/2022,Maikawada,5079
+ecac6dc4-349e-4346-9226-7d454b12d57f,CR-Z,Watch,07-02-2022,Gamovo,1548
+2003bd04-4603-473f-8a9e-0f27ea3c18ee,Mazdaspeed 3,Watch,6/16/2022,Torzhok,2254
+9eb44fbf-3e88-4b9f-ad0b-21eaae77e24e,Caravan,Eyewear,8/19/2022,Glugur Krajan,9848
+42c4d979-6acb-4c2d-ab72-fcf5fcaf9b21,TT,Eyewear,2/13/2022,Datong,1233
+4fd30803-e584-46eb-905b-5dddeb1eacab,Contour,Watch,9/28/2022,Bissorã,6584
+ec3002c2-dd22-4de6-b926-0b4e4ab60ac5,Corolla,Watch,12-07-2022,Garešnica,3829
+ecb6aa50-07fe-4766-a252-be537e3e43e5,Imperial,Watch,09-05-2022,Ōkawa,3749
+9eaa2e5f-0c40-49b4-ad56-25f94fe34445,Phantom,Headwear,2/17/2022,Takamatsu-shi,1491
+404fd751-9bed-4526-b4dd-471d0c5f0929,Savana,Watch,10/19/2022,Mangero,2891
+97963472-5d12-4d31-9653-af2882ad747c,E-Series,Eyewear,12-08-2022,Paris 12,4485
+e5def436-fccd-4314-9c02-e92a7416a345,Neon,Headwear,7/13/2022,Killorglin,2447
+8e770bd7-76d9-4de1-8a69-a5b3af553066,Land Cruiser,Watch,02-03-2022,Aime,6290
+008bbb00-0e67-46d1-9a76-5b57437b1c3e,F350,Other Merch,12-06-2022,Zhanjia,6874
+54d3da5a-9dfa-40a1-a7cc-88801f6a9e78,Maxima,Watch,3/16/2022,Połaniec,3208
+b9252c15-4e97-4121-9998-0c688ea48e45,Amigo,Headwear,04-09-2022,Tamahú,2773
+1100ccd3-6526-4b35-9f1a-f80c1e9c8bc0,LeSabre,Watch,1/31/2022,Ruy Barbosa,1173
+60562369-f3b7-4f43-a090-e023c2e9c7ce,300M,Headwear,9/21/2022,Caxias,4830
+a6425384-2e74-4fd0-bd69-0b9dd4a0307a,Sportvan G20,Headwear,01-02-2023,Pulong Sampalok,5925
+2add14f2-c1c0-4325-85ab-f53f429c9250,Galant,Other Merch,5/30/2022,Fonte Boa dos Nabos,6384
+89a6f25d-d9b3-44e6-8709-85a0e271b8b3,200SX,Eyewear,1/23/2022,Vokhaïkó,6146
+8c5498d6-176c-4993-acd2-35d924dcd3cb,Ranger,Headwear,12-04-2022,Krajan Tengah,6145
+57bc9d6d-f4c0-4b23-b448-db3e0f24a205,LX,Other Merch,6/27/2022,Shāhzādpur,4680
+a2c2c738-b2f8-40f8-96a9-f089fe0d7d8a,5000S,Headwear,04-09-2022,Duekoué,7649
+02e2600f-df36-4d33-a8ca-f5eb43094962,Estate,Other Merch,1/31/2022,Cruz das Almas,1000
+94a17a8c-c744-4bdc-803b-1ffa05baab68,Town & Country,Eyewear,2/27/2022,Gornorechenskiy,8472
+b2bf4bef-28e8-409f-92ee-851116e580c4,RAV4,Headwear,11/21/2022,Bang Kaeo,2750
+1bc238e4-7884-47ea-ba23-d40e3e7a8821,Town Car,Eyewear,12/28/2022,Tambangan,9542
+d140052a-7262-480a-8196-f43d9fcaff14,Eclipse,Headwear,6/14/2022,Barcelona,2213
+2d37b3b5-2f88-4fce-8657-4f3e16ef172d,Mustang,Other Merch,03-12-2022,San Martín de los Andes,9973
+cac54a46-422c-4dc0-8a65-89dbe6266d8a,MKX,Headwear,01-02-2023,Vyritsa,7883
+b32244c3-760f-4a64-8472-b59fb51906d4,A4,Watch,06-04-2022,Kochenëvo,9731
+1c218709-b14a-4e51-85aa-c86c89361273,LS,Other Merch,9/13/2022,Skaryszew,3669
+466e3f98-0abe-40a3-a7e9-8331a3b617b8,Grand Am,Eyewear,6/23/2022,Sundbyberg,1975
+2c610c7d-b8f1-487d-b08b-e45b9416b3d8,Golf III,Other Merch,9/23/2022,Kambingan,9271
+f7663200-3cff-4758-89ce-aa423ae38fcc,Accord Crosstour,Headwear,02-04-2022,Lo Prado,6636
+1690069f-1910-43e1-bf3d-55a245de2b21,LX,Headwear,4/22/2022,Velikiy Ustyug,4155
+f7ca98bd-ae82-442c-81ea-aa8d81c98cc1,Sorento,Watch,07-03-2022,La Seyne-sur-Mer,9956
+5f62b644-5dfa-4cab-b7c8-a5a20fa0324a,Town Car,Headwear,5/16/2022,Butterworth,4773
+660367f2-fd26-479d-95cd-5b8fda6f36be,Envoy,Eyewear,4/15/2022,Kauswagan,7142
+a81d2714-ad71-426c-8ae3-2609d9619c98,Sportage,Headwear,6/17/2022,Hadakewa,7408
+e688e240-0f47-4629-8ac4-8065f2530865,Monte Carlo,Headwear,7/29/2022,Cikiray,8572
+81ab4b10-ef6a-4ee6-8e42-3d83a6a53f42,MKZ,Other Merch,3/14/2022,Komarno,2666
+05bbbeb7-349f-40f7-8060-18db5a0f2415,GLK-Class,Watch,9/27/2022,Kuncen,8927
+ad2f3120-52d1-4d50-b6b8-2d5f07919e9d,Tacoma,Other Merch,7/23/2022,Rueil-Malmaison,4147
+86e41550-cbe3-4c5b-b72d-ed66888154de,QX,Watch,03-08-2022,Loikaw,8755
+3ae2119f-be9b-4628-b294-73e2dc2661c2,Golf,Other Merch,8/19/2022,Nova Viçosa,7095
+5dc8008b-7c95-4727-9067-0ef09b030309,Silverado 1500,Watch,07-08-2022,Wangtai,1505
+e4ee2b01-e673-4f44-8d46-83846f52342c,Grand Prix,Other Merch,04-06-2022,Lyuban’,4750
+c8316cba-21c5-4900-bba2-8315396c2bad,Tempo,Other Merch,2/24/2022,Shangtuhai,4782
+e88a9762-d1b2-4ee1-b828-17f1106ddfb1,Cirrus,Other Merch,08-01-2022,Labog,3798
+95402f8b-bbd0-4154-a0bf-dd64d9970cb9,Avalon,Eyewear,3/21/2022,Rustam jo Goth,1694
+fe822d99-4f44-4d1c-9cc5-3a97039f40d9,Express 2500,Other Merch,8/28/2022,Likwatang Timur,10000
+64791a82-1194-460d-8ac9-302ce976623e,DBS,Watch,1/18/2023,Jagna,1141
+378fc6c5-fd8e-4df0-b3b6-0c92685646c6,645,Eyewear,09-04-2022,Parista,4357
+2a27ddce-cb46-4a6d-81da-12c5784700bb,Tribeca,Eyewear,8/28/2022,Novo Horizonte,1327
+760d4fb8-9fa6-4662-b57a-3110d5cede3a,Nitro,Watch,05-01-2022,Kuala Lumpur,8785
+66f4be7c-d85a-44fb-a3bd-f2d75e116bf7,Camaro,Watch,05-04-2022,Anyar,3241
+508f9747-1439-4379-935e-c2e26460d645,Continental Mark VII,Other Merch,8/26/2022,Cordeirópolis,1417
+5ca015b6-c828-4822-8649-9cc143102109,Boxster,Other Merch,3/18/2022,Poroshkovo,8966
+719b4b01-778b-48ce-abb9-556a56f2949e,C8 Double 12 S,Other Merch,07-05-2022,Paombong,1564
+6f388fce-05e3-4384-ab78-ddc961ce82fa,A6,Eyewear,8/14/2022,Candelária,4289
+513af594-4671-4b31-8540-df925c9ed31f,Amanti,Other Merch,8/15/2022,Yangjingziwan,3412
+d5038e5e-7636-4487-97c3-f1833d277e1a,Yukon XL 1500,Other Merch,10-10-2022,Yuncheng,1813
+dded9305-0e2a-45c1-9e3b-bcdf494fabd4,X6,Headwear,3/24/2022,La Esperanza,9948
+4e64848a-1cb2-4a71-aea2-2f51c4b20223,Ram Van 2500,Watch,5/15/2022,Kiernozia,9628
+bdbf1ef1-1305-4f58-a9f4-47e02d3eb9fa,Probe,Eyewear,10/28/2022,Cerme Kidul,4133
+cb82b238-270c-4585-85bb-3214158e505d,Seville,Headwear,7/14/2022,Al Wajh,4931
+b5027e07-1f0a-4e28-96c7-c59706e3945e,Protege,Other Merch,12/14/2022,Toledo,2464
+79911e79-1274-4a60-a966-1eaf31988498,Tempo,Headwear,08-01-2022,Wanglinkou,2631
+1c4231a8-7450-4511-b630-84a742f9b547,944,Watch,10-07-2022,Toktogul,9151
+e574ea7d-6110-444f-8284-7a30b90cdb42,62,Other Merch,9/14/2022,Tournon-sur-Rhône,6072
+c404ac27-81fc-46cd-8dd4-c0beeb36f0a0,Land Cruiser,Eyewear,4/21/2022,Nong Khai,1348
+918a43f3-df7b-4aeb-b534-2efcf0a43b50,4Runner,Other Merch,03-10-2022,Xuanhua,4945
+aecb574d-635c-41e0-a119-e65066f61d59,3500 Club Coupe,Watch,11/25/2022,Matangshan,7674
+fd345fcb-20a6-42f0-9390-5b22076a03ea,525,Headwear,11-08-2022,Kaliterus,9935
+dc748783-d634-4adb-80c6-4dc676acf53f,5000CS,Headwear,12/14/2022,Błonie,1877
+38127b93-397e-4a24-ab43-7b6d3c1276dd,Malibu,Eyewear,06-12-2022,Australia Square,8734
+458e9ef3-1cda-4d3d-a80b-236355a13380,Ram 3500,Headwear,3/14/2022,Shuangzhong,9009
+30da065d-d817-4aa3-bdd3-dda00908ab70,Stratus,Watch,3/21/2022,Wuluhan,7535
+aa15e68f-c120-482d-a197-b598064ad3ab,Avalanche,Other Merch,1/29/2022,Ipoh,7796
+0964630d-1060-41aa-a6ba-953eafbf238e,Passat,Watch,9/21/2022,Vilarinho das Cambas,3455
+f9abb192-a666-4317-a804-43ef066e529b,Esteem,Other Merch,07-10-2022,Chester,9827
+7846cf41-495c-480c-90ac-1303cd167877,Lancer,Watch,07-07-2022,Lobito,5678
+6f349a65-779b-4ca1-8b3c-29a6afd73602,Prius,Headwear,11/22/2022,Niños Heroes,7147
+cad451b7-7170-4958-919e-21d6a0897391,Grand Marquis,Watch,6/15/2022,Zhouling,6544
+e3e1d21d-6186-4322-9144-49fb96a4a240,Impala,Other Merch,2/13/2022,Amiens,1850
+1b0966bc-0513-491e-8510-4b5dc262b369,Mazdaspeed 3,Eyewear,8/30/2022,Yangqiao,9186
+d34838af-6c3c-4fa4-b656-1d5616d6a5b9,530,Other Merch,7/24/2022,Stockholm,8967
+62a6da57-11d0-4432-9709-0e82117eee6e,Spectra,Watch,10/22/2022,Sambir,1169
+7030273e-de84-473d-bdc7-a51ec726200e,300,Headwear,09-06-2022,Antsiranana,3249
+01bedcbf-367d-423d-adf1-df37412e2dc0,Yukon,Watch,11/19/2022,Ufa,5991
+35da4d75-0c67-4859-9871-92dcca675a7b,Sierra 2500,Watch,04-08-2022,Shipaidong,7193
+1d657e0a-aa3f-4bf4-ad20-859c0e52375f,Suburban 2500,Eyewear,11/15/2022,Ciherang,7524
+2e70ffec-3b8e-42db-b9c5-14bd95b5d3a6,Tiburon,Watch,12/31/2022,Palma De Mallorca,2005
+c5e1c895-0856-4a7e-9bb4-4d057e5a960d,CX,Eyewear,07-08-2022,Milltown,3916
+139b1fbb-b790-4e15-a43e-360fcf9605d1,Justy,Eyewear,10/16/2022,Orahovica,6761
+5f8dd5c4-8282-43c5-a2e1-d4d3c28ab786,Type 2,Other Merch,2/19/2022,Mungkin,1079
+a1cb518f-7e93-4d38-bfbc-5643c62e80ca,Explorer,Eyewear,04-09-2022,Soacha,4463
+19219fff-8dd1-4abf-8bb8-251d96b5cce9,Skylark,Headwear,09-10-2022,Arras,4588
+6fc7e132-44e7-414e-ab53-cc9c1fadfbe5,Sephia,Eyewear,03-09-2022,Zhangcheng,4504
+8ba1b87e-594a-4098-adf7-7ca9703e10e3,Range Rover,Headwear,1/13/2023,Sollefteå,4917
+dea127ee-45d8-4e4a-8cff-9b6078bbb3b3,Grand Vitara,Watch,04-10-2022,Norrtälje,7134
+8edc7780-20d4-4996-af43-a37119308e8b,Aerio,Watch,03-02-2022,Wulongshan,3313
+9eddf202-16ea-4238-aa87-af92e0dd2f6f,Skylark,Eyewear,05-04-2022,Amberd,2391
+711a6a30-6c03-44b6-a84d-df60eab3f692,Camaro,Eyewear,10/15/2022,Jiekou,3916
+06972ee4-e6fb-4344-a988-ae918306b978,Tercel,Other Merch,11-05-2022,Ostankinskiy,1832
+bef01db0-02f0-4905-a4bd-96a06e2962cc,NSX,Headwear,01-03-2023,Yushan,9604
+065831db-f395-4902-9411-f5287b940747,Capri,Eyewear,11/21/2022,Funchalinho,8559
+82ba5622-f1b4-4908-87b1-a688243a61d4,Chariot,Other Merch,1/14/2023,Huadi,7098
+57bc6103-763f-4454-9369-f22f56f693f8,Coachbuilder,Eyewear,9/14/2022,Ogoja,8225
+fe17c1ea-1711-459d-90f9-7bf3de8af60d,Azera,Headwear,3/30/2022,Gaolong,2347
+8aa6542f-86d0-4229-bd97-daf04c2af2ae,Excel,Headwear,8/14/2022,Solnechnyy,8620
+0c3a302f-1847-4f9b-9db8-b3338f192748,LR2,Other Merch,6/19/2022,Domalanoan,9111
+d7df6067-480e-4b13-b25e-3d8da8a8ee82,Cavalier,Headwear,4/28/2022,Wright,2339
+6a6eaeb3-9db3-430a-ae4c-95cbf34aa3ad,Sentra,Other Merch,4/19/2022,Brloh,3478
+06ab8d1d-1f9f-4baa-89c4-8445dd824ce6,Accord,Watch,12/14/2022,København,1694
+87dabae7-4e04-42ca-abc6-06a66b236569,del Sol,Other Merch,7/26/2022,Matanza,2421
+7718eef2-915a-45df-871d-cf51a942562b,Sentra,Watch,08-07-2022,Trzciana,2172
+bcce804f-4c6f-41bc-a1ab-3d440a126401,Range Rover Classic,Headwear,5/20/2022,Shreveport,9010
+0d9bc8aa-b85a-4992-a5c8-dc82d060d223,Sonata,Eyewear,11/20/2022,Goz Beïda,6423
+68dcbc08-8b9a-4dbf-8ddf-0f2c059292a1,Caprice,Other Merch,12-12-2022,Al Azraq ash Shamālī,1660
+2e18ba6b-1d5a-4b20-9c6e-454a77f5b934,Cabriolet,Headwear,5/14/2022,Yam,7992
+6e8ed5a3-d2ef-451c-bdb5-2baefd8cfe3f,LS,Headwear,01-12-2023,Serravalle,5105
+6571f0e2-e0f9-49d3-9faa-8623ac19a5e4,645,Watch,07-11-2022,Terang,3590
+2fb49fe8-8ef4-4d9c-9b19-4d121ac73451,E-350 Super Duty Van,Eyewear,06-10-2022,Xikou,3949
+55b4e8ad-a96b-47b6-8b84-f6e50976f26c,Grand Prix,Headwear,07-09-2022,Lipov,7453
+1273be9a-50ca-4bcf-9018-70bfde71558f,Focus,Headwear,05-04-2022,Grenoble,7796
+99a4ea01-4be8-4425-9ba7-9b75e0c40edb,GTI,Other Merch,04-10-2022,"Hospitalet De Llobregat, L'",6412
+d7f38ed5-4407-46f0-bcd2-a6b6a2ff2b20,GX,Watch,8/15/2022,Tianjiaba,4556
+1ca088e8-13c4-44d6-b4ae-ca9c9bd329a0,G25,Eyewear,01-11-2023,Graksop,9564
+c86d5dd7-62dc-4d1a-bb07-f9177076849b,GTO,Headwear,08-05-2022,Valada,7389
+56f060e8-1b6c-47dc-9942-0f237f7cbf61,Grand Vitara,Headwear,02-04-2022,Tres Isletas,4878
+93c25423-c219-44cc-a947-f8386dd01256,Tucson,Headwear,10-11-2022,Karangturi,5380
+220e1058-4c2c-48ae-aa7f-cbd5a813e5fb,200,Headwear,8/17/2022,Tánh Linh,1010
+c3d84765-714f-4f64-870d-b318986a0f48,Hearse,Headwear,4/25/2022,Huili Chengguanzhen,9778
+2fe3963e-0343-42f7-a74b-4aca8a2e6f5e,57S,Headwear,1/20/2023,Kanzaki,5729
+8b574405-c75f-4ca4-83e0-537ca4103a8b,Touareg,Watch,08-01-2022,Yono,6381
+31c99ec8-213f-4b81-a981-6c654f311b5c,300D,Eyewear,2/15/2022,Amsterdam Nieuw West,8837
+6cf695eb-5f33-4230-94ea-43341519e82d,E150,Other Merch,6/28/2022,Sokolac,7006
+c85ebc63-a651-4430-b0e2-bb8aa46548b3,Corvette,Eyewear,11/20/2022,Książki,8960
+077a0d68-6fca-4dee-9699-3b601ad637fc,458 Italia,Other Merch,8/14/2022,Ho,5680
+b95940b1-b3fe-440e-baad-52e87cd2254e,Discovery,Other Merch,10-09-2022,Tessalit,6579
+7e05185f-da92-42f4-83d8-6a84966287ed,Murciélago,Other Merch,8/20/2022,Vinhais,1138
+64b0c306-975b-465c-b77c-818c123c2761,Sunfire,Other Merch,4/26/2022,Guilin,1342
+8799affb-f774-4be5-9cd6-e92b0ecf124b,PT Cruiser,Eyewear,1/16/2023,Tianzhou,3072
+50f38cb8-6288-46a5-85ec-ad6ef2f00fac,Q,Watch,4/27/2022,Dongshangguan,5310
+5482a69e-f5c4-412c-aae1-8406c5569657,SVX,Eyewear,11-06-2022,Timrå,1055
+7da5be21-d409-4e66-8c53-31802eaacebc,TT,Watch,10-02-2022,San José de Miranda,8248
+4277ac4e-cfd5-47a6-8dc3-e97c82119ac8,Continental GT,Headwear,11-07-2022,Toulon,6984
+9153cb88-00c3-4a4d-b60a-b37bdf74ae76,Suburban 1500,Headwear,12/15/2022,Novomoskovsk,3807
+04e205e0-65b8-4eae-94ec-901db53a03f2,Stratus,Watch,4/15/2022,Bruxelles,6905
+744f0f24-28eb-4d57-85d3-63fdbe341955,Impala,Other Merch,04-05-2022,Chojnów,6487
+a5a460c7-77a5-47bf-aa91-c22fdbc01e0b,E350,Other Merch,1/13/2023,Middleton,3304
+78bfd4fe-01f7-4be7-b4cf-f5367a9cabee,Outlook,Other Merch,10/14/2022,Reguenga,3246
+1112dcd2-553f-4407-b285-e18f9a8b5842,Yukon,Headwear,09-11-2022,Amiens,1786
+adcaa1b3-1f98-46e6-a1bc-1ef263f0ed7a,XL7,Other Merch,11/21/2022,Vincennes,4143
+41614034-3347-4a27-a7ce-d809748f0de7,Mustang,Headwear,06-11-2022,Zagórnik,7959
+89b20639-416b-462a-a3d7-c050717a2129,Veyron,Watch,10/13/2022,Wolowiro,7693
+ab291c65-7e05-4ded-aa51-a9a9a036e4cd,Ram 2500 Club,Watch,2/20/2022,Proboštov,5067
+508e3bf0-1f3a-4299-88db-fc7d59b7be9e,Mustang,Other Merch,4/30/2022,Brak,5331
+b81ad7ac-310a-469d-ba54-dceaabb3eb1f,S6,Eyewear,02-12-2022,Naranjo,1748
+fb9816e8-75bd-4b4c-ad17-ec251623b502,Lumina APV,Eyewear,06-02-2022,Ballybofey,5126
+fe44e79c-ddfa-48ee-a4b4-b79ffb85517a,Vanquish S,Headwear,09-02-2022,Wuchagou,7629
+bc59435d-cd1e-4aef-b667-d088f288f0c5,Torrent,Watch,4/20/2022,Bizhbulyak,8144
+5056b90c-c461-4e8c-a16d-25ecf094e060,Ram 2500,Watch,5/22/2022,Chaihu,5866
+46cb99d7-6448-43d8-b769-2e30890bb1e0,929,Watch,1/23/2022,Kapuan,7737
+817500c7-7e3e-40a7-b460-3ad84f82cab9,Tracer,Eyewear,11-12-2022,Sabnie,3739
+39814025-6060-4fcf-9b14-76352e63f5d0,MX-5,Eyewear,06-05-2022,Acatenango,9063
+e52ca7aa-e48e-4d4b-8423-afcbc3e637a9,Bronco,Eyewear,7/29/2022,Hutang,9214
+c471d991-b3d6-476d-9b12-0ad4a7888900,626,Headwear,12/14/2022,Czarna Woda,9051
+e9081a58-50e6-4b13-888f-cabb72270af5,Previa,Eyewear,01-03-2023,Ryczywół,8567
+2b234684-f4e5-41e9-825e-320f6299f237,Pajero,Eyewear,1/20/2023,Longwantun,6519
+bc0b146c-ba5b-4de4-9c96-967f4e9b38a2,Z4,Watch,12-05-2022,Thị Trấn Triệu Sơn,2513
+48c13dd6-04ae-45b8-a64d-a9a0ee0232fb,S-Class,Eyewear,12/31/2022,An Naşr,4819
+67afc4ff-e3ba-4ee1-8b63-4abb394a1b5f,STS,Headwear,2/22/2022,Tambillo,5406
+d3d037e1-1db6-477b-ad39-dc6ef4e36257,3500,Eyewear,7/15/2022,Tanjungagung,8157
+b97aa640-ec50-43e6-a582-1512dde8e369,Galant,Other Merch,06-05-2022,Querocotillo,9222
+a02bcac8-1b77-4cc6-817e-2a95720f4742,Expedition,Eyewear,11/21/2022,Laguna Limpia,9809
+9eda984a-df41-4436-99cb-8ee69671a148,Safari,Watch,03-02-2022,Malata,4164
+b48861e6-3d6c-4623-80bb-bbcdd1e9cc52,S70,Watch,1/26/2022,Mokronog,3936
+b6e10737-2529-4ace-86bf-5362d739822c,Mariner,Eyewear,2/17/2022,Tiandeng,9443
+3c0f1dca-da31-460b-81ec-4ac94c2ef64d,S60,Other Merch,08-02-2022,Täby,8363
+7bbe04e3-4341-4410-8aca-0a7f9efec13b,Reno,Headwear,11/29/2022,Ángeles,7364
+7cf9ec8c-6c3d-4159-a9f0-5677407990d9,Avalon,Watch,8/20/2022,Nevel’,7339
+4a459633-6c50-4825-99ba-846852d4468b,Acclaim,Eyewear,02-01-2022,Linhó,4694
+d32ddc1f-f111-4361-8d5b-54998f2bb986,Riviera,Other Merch,7/16/2022,Stung Treng,5026
+9b515f37-296e-469a-a7b6-82a6b26cdd16,Sierra,Watch,8/14/2022,Promyshlennovskiy,4379
+d4ed910b-da87-48eb-bf4c-54cf4967da5b,Rio,Eyewear,9/15/2022,Jiangtou,7791
+2c67357c-7acb-46a9-b757-7ebd5537572e,Cabriolet,Other Merch,9/27/2022,Nice,5681
+265d226a-b7c1-4547-9ffa-2b3f143d80d0,Outlander,Eyewear,9/26/2022,Aco,2576
+f98fc4ce-b62f-40d9-a803-80bc9fb7e1f3,RVR,Headwear,4/25/2022,Tianjiaba,9237
+efcd2a67-d736-413e-bd70-c217fcdbc944,Escalade ESV,Eyewear,05-11-2022,Shuitian,2306
+9d207a50-3040-4d34-bfdc-b726d5ee68ab,MPV,Other Merch,1/26/2022,Chengfeng,7200
+336be812-cb31-44e0-abfc-403e86aa1ab4,Catera,Other Merch,4/25/2022,Toliara,8044
+2ead8efd-4291-4681-b77d-fa50eaca448f,S-Class,Headwear,3/14/2022,Petawawa,9257
+4333d48f-6088-4581-8d8b-6fee04f6193f,Durango,Other Merch,09-11-2022,Lintingkou,5271
+fa415199-73cc-4b1a-849e-d3d9f70c23fb,Touareg,Other Merch,11/25/2022,Maindang,3224
+df512668-b54d-4c1f-8b53-2f7355d0a1a2,Sierra 3500,Headwear,10/16/2022,Xujiafang,4686
+8968a9bb-47fe-410d-859e-40240e8b9419,S4,Watch,08-07-2022,Panaytayon,3045
+e99d4dc0-1662-4d53-a335-98ef0967013c,Grand Prix,Watch,2/26/2022,Severobaykal’sk,6459
+d53ed5c9-271d-4800-b4d3-f4ae41436717,Corvette,Other Merch,9/23/2022,Ayní,6617
+7c9e8b12-bc27-4187-a117-db6fcafb71c4,5 Series,Watch,9/22/2022,Campos Novos,3254
+474e94cd-7563-45e7-97a6-26746198ee64,Contour,Headwear,09-12-2022,Murom,5987
+f564d80d-35f3-47f7-9111-6397ad94cc5a,Z8,Watch,4/27/2022,La Esperanza,7670
+9758a47a-cc4e-46ad-b044-800b475e036e,F-250 Super Duty,Headwear,5/27/2022,Kotovsk,3463
+84052f08-aac3-4ed1-94d0-c0bf44e325ca,1000,Other Merch,11/30/2022,Xinji,5701
+62ee4bd9-31fd-4947-9341-311426be2ea9,Accent,Headwear,07-08-2022,Přibyslav,1994
+c61a05dc-e10d-4eba-8a39-dc01d30f13a2,Passat,Eyewear,6/26/2022,Rawaapu,6239
+1a7d975b-f1e1-4e79-b868-867d7cb27049,Thunderbird,Watch,4/25/2022,Jinrongjie,6352
+a6d6b84f-746f-4175-a90e-e28eb95a1fa5,Camaro,Eyewear,2/28/2022,Hongguang,1888
+f45f26de-1aa1-4320-a4b4-211d668d2e94,Ram 3500,Other Merch,4/21/2022,Chotcza,7755
+39dfa6f6-0334-4495-b7b0-1ee5c1691a9d,Regal,Other Merch,10-03-2022,Phoenix,7878
+2f873d55-8678-4fe0-834f-584759b644da,5 Series,Eyewear,04-09-2022,Kelmė,9846
+2b3704c7-647c-4350-8de1-38286149ae6d,Regal,Headwear,6/23/2022,Rey,9716
+c7335bf7-d0fd-4ebe-8e2d-17972197cd38,Econoline E350,Watch,5/16/2022,Sindangan,4311
+b521564d-36fb-48e3-a9e6-3f1a7a7ff255,Windstar,Watch,2/17/2022,Visim,8859
+d5c0bce7-07a6-4fc6-97dc-51684c0cc37b,Quattro,Headwear,11-03-2022,Siparia,2484
+7edcbace-2fe3-48fc-a2cc-78d8d04f379e,900,Other Merch,10-01-2022,Zelenograd,8674
+8b87e8f6-26b6-4ff7-bb42-f7c3b61d6276,Altima,Eyewear,7/16/2022,Cabanas de Viriato,5505
+3f28358b-d547-4b8b-98f3-178fca2b546b,E250,Other Merch,9/27/2022,Dolní Lhota,3342
+b59a1340-dcbe-4f4e-8130-9eb2a4af5b6e,B-Series,Eyewear,06-02-2022,Mayantoc,6557
+b3ecc938-91e3-44ee-8e2c-3579630ad46b,Thunderbird,Eyewear,8/27/2022,‘Uqayribāt,9279
+48c9dde0-fb1f-4938-9142-a4ac91111e23,Expedition,Other Merch,3/19/2022,Uchiza,4142
+e4c5a8cb-55ec-48d3-b398-8b4e8d4d4fd1,S-Class,Headwear,8/15/2022,Tudela,7330
+057c6ca0-b124-4e1e-a981-1264e38c53a9,Forester,Headwear,4/24/2022,Luodian,3405
+d56575df-6135-4125-bcbd-f08171a43072,Titan,Headwear,08-05-2022,San Sebastian,7407
+555034d8-0f66-49eb-8f6f-8f66852728bc,Electra,Headwear,3/19/2022,Grenoble,4845
+de56b5b7-ff02-474c-a305-5d8928b02b93,Century,Eyewear,06-05-2022,Kuala Baru,1517
+7fac45da-96b5-40a4-b574-6f982c806580,Ram 3500,Headwear,4/28/2022,Songlong,6257
+de3522da-634e-4bba-b8c8-4d411565f1dd,Continental,Headwear,2/16/2022,Jardia,5909
+77c7fbb5-ff09-43bd-a3fb-c544081e96c0,626,Watch,12/28/2022,Södertälje,9977
+d8859b6e-8bd1-4995-b7bb-6151f658eec9,LR4,Headwear,11-04-2022,Kasamwa,1618
+f497169d-acf4-4306-917f-cf88cd0e1caa,Tribeca,Watch,03-01-2022,Biały Bór,1005
+5c40daf2-9ce9-44e3-b670-7fb478199d16,Impreza,Watch,11-08-2022,Mangulewa,4076
+4444aff8-57a9-4275-bae4-c43cc674c55f,M6,Watch,4/16/2022,Kuštilj,8103
+515e2226-ee73-4e09-b8fb-2f98d86864ba,Blazer,Watch,12-07-2022,Sifangxi,9946
+491aa552-d2ae-4619-a619-bdc7a329202d,Tacoma,Other Merch,11-08-2022,Brusque,2744
+cfe547ce-1d04-41dd-ab8f-f4780c73c507,Sundance,Other Merch,05-03-2022,Tierralta,6777
+daf0b910-1ba5-4ef8-b5da-8b713b6a2e9d,XJ Series,Watch,12-12-2022,Kukur,5954
+653a2942-9878-44bf-8013-ae16c83ee3f5,Sprinter,Headwear,5/22/2022,Biên Hòa,6364
+7ad5411a-6b29-44ee-b33c-1574734af7ab,62,Watch,06-04-2022,Kalmar,7160
+a3201c2d-ebad-42af-b7bc-28c8fbf9de8e,QX,Headwear,11/19/2022,Banjar Bucu,5463
+a56c04d8-f7f4-4127-bd46-3291d9e792c4,Econoline E250,Other Merch,10/22/2022,Limoges,6156
+32f1f424-1cee-49d5-9fdc-908ace46285b,Mirage,Watch,1/31/2022,Dahu,5100
+4394c03d-daa4-4473-ae6e-abe78fc62cf7,GS,Watch,08-04-2022,Ruihong,6635
+faac210d-0795-497d-85f7-f836a6abff44,G6,Other Merch,9/15/2022,Juarez,4679
+94bc4cda-bdd9-4199-9db1-0268504685db,3000GT,Headwear,01-12-2023,Manas,1346
+7421b9aa-fbeb-4dd6-a9bf-c2a2d0b19147,F150,Headwear,08-02-2022,Laxey,5685
+350a39b3-c8d0-49c0-a824-427dfea3dd9b,B-Series Plus,Other Merch,8/26/2022,Woha,4574
+26481992-252f-4825-ab4f-675f495ed7c3,TSX,Eyewear,09-10-2022,Jinshan,8095
+a89b3ac8-5fdf-4a1d-b12b-fbb9fcaa3ceb,928,Other Merch,12/26/2022,Baijiang,5849
+19c87800-cdd4-40a6-84b9-42c0df0e03e6,Corvette,Other Merch,06-07-2022,Wuqiao,3059
+5eba85ad-aa87-4149-a8bd-b5ac799a6d2d,Camry,Headwear,12-04-2022,Pingtian,3063
+5e56486d-44a4-46ce-aeb3-845d377c7a85,7 Series,Watch,06-11-2022,Järfälla,9965
+11f63e74-31c2-4436-86b6-0dc3ebb571bd,Golf,Eyewear,5/26/2022,Quán Hành,6528
+e2b04ed4-abe6-4b7e-8a3d-19f7ed91461a,Legacy,Headwear,9/18/2022,Laohekou,5014
+f161e29c-6a11-493d-a965-a8e3f64511cf,Grand Am,Watch,8/24/2022,Jingjiang,3929
+2002badc-0d2a-44eb-b59b-a9017a609f0c,Rio,Watch,11/24/2022,Kittilä,7779
+8a08f69e-fc78-44fe-9476-fa2ed1f1ee1d,Seville,Watch,5/30/2022,Mostek,3110
+a0e4dd2f-27a4-49ce-a5fc-18cf841bbcce,Ram Van B150,Watch,12-11-2022,Kan’onjichō,1826
+5f737375-cf8f-4af5-bd20-12ae667f9e42,Sedona,Headwear,2/17/2022,Saint-Brieuc,9872
+3bb8adab-e0e7-4e61-9f50-63ee697c1968,CX-7,Headwear,11/29/2022,Sangallaya,3938
+0f608d1f-d591-4dd4-97f4-b4d3289b4eb5,Grand Marquis,Other Merch,2/28/2022,Guadalupe,4512
+51146132-7db1-41c2-bdd2-2a481d122d44,F350,Eyewear,8/28/2022,Tiro,9734
+124c424c-4d53-43b6-906a-23ff4ad4c3e9,Corvette,Eyewear,10-06-2022,Penglai,4225
+ad41165d-9253-4c0b-b6d1-8edbbcba8cb1,Escape,Other Merch,2/14/2022,Rudy,6730
+b8ad7419-0361-493a-aa5e-208a20ce2f58,6 Series,Other Merch,4/21/2022,Jitan,5610
+9248ba64-298a-41f8-88f3-4deaea5d7fc8,Mazda5,Watch,06-03-2022,Wetzlar,3529
+29ada8aa-9c9f-4def-81aa-8b688fe4bd0f,207,Other Merch,10/31/2022,Combapata,7303
+4b30c20f-3aad-41eb-afd6-c0f2920a5b81,Quantum,Watch,9/29/2022,Dagup,6391
+55642cf9-aa3d-4389-98f9-8a98df8ee981,626,Headwear,1/19/2023,Ma’an,1646
+491ad0b1-d72d-4045-876f-d2ef8e00f3f1,Montero Sport,Watch,4/29/2022,Bijie,8654
+8e8d95f5-fe77-4efc-8b8a-64f1dc9ff11a,Laser,Other Merch,3/13/2022,Quetta,6169
+2ce2b810-5725-40af-9f20-9464fd5dbd8c,Savana 3500,Eyewear,3/14/2022,Vientiane,6268
+2506b301-9d39-4185-a9ec-4617e1330f08,Equinox,Eyewear,1/19/2023,Longkou,2626
+714b8fee-e9b7-4add-b90a-a7fb262c3866,Continental,Headwear,01-03-2023,Castanheira de Pêra,6756
+31af9173-d466-4821-8678-09c94e45611c,Miata MX-5,Eyewear,10/31/2022,Almendra,1178
+3ab0a0ca-e50a-46fd-ba10-d33a2f56b5a9,Daewoo Kalos,Eyewear,6/25/2022,Cambridge,4999
+8bdd2d7d-c6ad-457a-aefe-6d62621817ec,Range Rover,Other Merch,7/15/2022,Staten Island,4496
+b1f2ca97-f788-4d22-827e-d4549ae718aa,9000,Watch,9/23/2022,Glamang,4676
+37a7bcd3-0848-4311-abe1-07c52ca5b199,Civic,Watch,6/21/2022,Cilaja,2666
+b0a92548-4448-422a-991c-7c9ddf5e31d7,Windstar,Headwear,04-01-2022,Shuanghe,6646
+c69a3320-e6fc-4260-89e1-6d1de64bb622,Tiburon,Other Merch,12/13/2022,Praya,6039
+f50e32de-b26a-46f1-86a1-19331d8c4d11,Pathfinder,Other Merch,11/26/2022,Curridabat,2646
+4c9c04ec-547c-42a7-8cd7-41bde7135b56,599 GTB Fiorano,Eyewear,09-03-2022,Debesy,1748
+709c203d-2530-4655-8527-dea223484e2d,SRX,Watch,8/31/2022,Ingå,2891
+c7e805e3-77c5-490c-b014-ff36db7834c5,Thunderbird,Eyewear,9/24/2022,Chase,2889
+4a9e7537-e741-4e4d-9274-4511bfe57151,Escort,Headwear,07-05-2022,Iwakuni,3771
+582f2379-69de-4b80-b573-9bf81e09b9f9,Sorento,Headwear,7/13/2022,Kananya,5203
+6678d1c6-3e9c-49a4-9a28-726413ea0c8a,Aztek,Watch,06-12-2022,San Isidro,9706
+f8d02818-bff0-4437-9eca-005177d9ec99,Rio,Other Merch,07-01-2022,Sitularang Landeuh,5586
+d5cfdd6a-1bfa-4aea-86fe-ff449fcbbea1,Fairlane,Other Merch,12-10-2022,Urungpigang,5900
+8214b488-a151-441b-84b3-c2eee3a6f544,S-Series,Headwear,6/30/2022,Tongjing,9907
+e7cf8654-7e13-481d-bfe6-a537ffde19f8,Spirit,Headwear,03-04-2022,Qinghu,3189
+953de974-4ba9-447e-a6d8-76aee7739aa5,626,Watch,3/25/2022,Girsereng,8207
+fb70d198-0d04-4ebe-bac3-9bb5f7a615f8,Familia,Eyewear,6/29/2022,Niyang,7586
+4fd70005-569e-438d-8763-8710d0b0c551,Azera,Other Merch,2/24/2022,Marseille,6647
+b14669fb-8545-4e0a-8a80-a0b5fb517e52,CX-9,Headwear,5/22/2022,Stan-Bekhtemir,8145
+c0dcbb60-987b-47d1-a358-08bd58dc80ab,Truck,Other Merch,12/28/2022,Kingston,6303
+a0099a5f-18bd-47b0-8748-82f263655faf,Turbo Firefly,Other Merch,12/20/2022,Jiujiang,5063
+2aab5b59-36ff-45a8-b63a-1b1d0d506989,Santa Fe,Headwear,11/26/2022,Majāz al Bāb,4026
+47bfb3ba-0338-4dc7-87b3-fa91ff5658a6,Bonneville,Headwear,10/27/2022,Halayhay,9084
+2cd7e8d5-6d9d-4348-a463-3988e668109e,H2,Eyewear,8/27/2022,Yecun,7256
+47dc90dd-65c4-407d-a789-8cfe06993e9e,Estate,Other Merch,06-10-2022,Sävsjö,4708
+0295c0e2-9499-41b4-a991-fd0556dfc4a0,Veracruz,Watch,2/23/2022,Randuagung,6197
+18061732-e685-4831-bcec-0ee11a8da0ba,Magnum,Eyewear,1/21/2023,Chengdong,6716
+d33ff338-dd15-4634-9ef0-c42b6b8efb53,Caravan,Watch,10-07-2022,Croix,9198
+c9877395-6d0c-4896-bd17-e047d772c2bf,E-Class,Other Merch,11-02-2022,Nanyanchuan,8311
+2986c81f-fa3e-42a4-ba1f-e4f417619524,Bronco II,Watch,1/29/2022,Lallayug,4291
+e5a317db-3923-4f4f-b9f4-46e164e5477e,Sienna,Watch,1/20/2023,Gwadabawa,3992
+6b6d0cdf-d022-461c-9e3e-e258c425bd70,Beetle,Watch,1/31/2022,Santo Ângelo,8021
+f7d4daf4-7892-42f6-abdd-ea6d08516801,MPV,Headwear,5/18/2022,Plast,7050
+88f00968-b0aa-4611-803b-fea3171f83b9,CL,Eyewear,12/29/2022,Khantaghy,2026
+2ffc4753-9e5e-47f0-bc17-6b74a3b79792,Entourage,Other Merch,04-03-2022,Rio Covo ( Santa Eulália ),2719
+f75602ea-de0f-4ca2-a54c-2e4638da91d7,ES,Watch,02-09-2022,San Pedro Carchá,5783
+6c18677a-c84a-4061-932a-b915f2a812b5,Ciera,Headwear,09-02-2022,Tāndo Mittha Khān,2636
+3e89935f-3284-4214-a32c-34f4d3a89322,MPV,Watch,3/27/2022,Jovim,3524
+41c05d5b-ed04-4343-ad20-a5b951138a7b,911,Headwear,04-08-2022,Bugcaon,5529
+ae59a6da-9e8f-4c33-9d9b-16880dc613df,Galant,Headwear,4/19/2022,Olesno,9936
+76a9c680-6f35-4d14-befb-47b3dd0b06a7,Grand Am,Other Merch,12-07-2022,Tilburg,9189
+1de28875-ed73-4e1b-8e43-4df7b8ffe447,280ZX,Watch,06-03-2022,Skoczów,5929
+82c0490b-1c90-4df7-b935-e73104b90f15,Scirocco,Headwear,01-03-2023,Tartouss,7358
+11926391-99bf-4398-acef-225579258729,4Runner,Headwear,7/19/2022,Santa María de Ipire,6218
+ddf092e4-718e-485d-b5c7-7974d2863c02,LX,Eyewear,12-02-2022,Koreiz,8577
+40d630b3-4551-4631-960e-14698285681c,Grand Prix,Eyewear,12-06-2022,Mýrina,1997
+525b2b75-937e-4093-b78a-cef98f04e2bf,RAV4,Watch,10-10-2022,Prislonica,9983
+59d18b45-2047-438e-8451-fc02fc453eb2,Accent,Watch,8/20/2022,Bao’an,8753
+c43ac501-8d13-4b75-b47c-5074ec05726f,Aerio,Headwear,9/19/2022,Kuching,8885
+f6364dcc-5d49-477f-81b7-61e170322138,Accent,Eyewear,7/16/2022,Lysyanka,1266
+50838b91-4927-4c34-8e57-74dfbe2c388b,Grand Prix,Eyewear,05-04-2022,Wilcza,9065
+c9863ef7-2029-4dc7-90b7-e9361127a964,Regal,Eyewear,07-08-2022,Kurovskoye,9833
+8ce8c6e8-9c65-4087-b916-65686f9dc9ed,RS 4,Watch,10/21/2022,Béziers,1988
+686d57e6-9818-4409-a7dd-316955825427,NX,Watch,10/17/2022,Buayan,2196
+e439224d-bae5-44f9-bb74-797c7d372f30,Santa Fe,Eyewear,8/17/2022,Beishan,9126
+4d7f9a0c-eeb7-4ecd-821b-866c92d1d0fa,Freestyle,Eyewear,11/22/2022,Karanggedang,1757
+1a9bced7-cd62-4550-9b7f-01db77cfc5f6,Electra,Eyewear,5/21/2022,Corujeira,8556
+83c90f31-4b6b-4eba-92f6-62c46cf5aaa9,Probe,Eyewear,4/26/2022,Juàzeirinho,7396
+85c952e7-3c8b-4176-b819-75566385c600,Outback,Eyewear,5/27/2022,Pessac,9701
+2d26c80d-e671-42de-bfb5-1dbc65d53b89,S-Class,Other Merch,03-06-2022,Mungo,9794
+a85c7ec7-e876-4efb-b237-3ab75639851f,CLK-Class,Watch,01-02-2023,Balekersukamaju,1440
+95fc3b05-fa52-486e-a494-b907122f8a27,Patriot,Other Merch,12/22/2022,Yazykovo,2540
+a4d83041-2991-4e53-abfa-c0f7c94be6aa,626,Other Merch,11/26/2022,Greeley,2504
+ac116710-8f5f-40d3-b127-77dc1104150e,Gallardo,Other Merch,6/27/2022,Sigou,3222
+9a14e7a4-6f7f-4103-8b1e-3818ba221120,2500,Watch,7/22/2022,Angers,9815
+57a454d7-15e1-4c13-b9d3-f6ec1c452ab9,Sierra 2500,Eyewear,10-10-2022,Smiřice,5733
+13a8a987-6e36-44f6-ac41-2e04541094ff,Ram Van 3500,Eyewear,8/22/2022,Zhongxing,2430
+a4a40bb0-131e-4cb3-aba5-4fde30235f57,62,Eyewear,1/24/2022,Ćićevac,4405
+c2f40a8d-9657-4bfc-a601-16b068c5ebfe,New Beetle,Watch,11/23/2022,Barda,6265
+b504870a-7e8d-48de-b3bd-601a11174f9f,Park Avenue,Headwear,5/22/2022,Sablé-sur-Sarthe,2234
+c4334a83-0661-4a2a-b241-4b44b84083cf,Ramcharger,Watch,08-09-2022,Remedios,2198
+bd0ccfbe-139d-40ad-93aa-3330dd4f60a8,Sonic,Headwear,10/25/2022,Paderne,2650
+b3d26e27-312b-4cdf-8b31-ec818e948277,Escape,Other Merch,2/13/2022,Moog,7457
+4049f0db-2503-47c8-8158-dcfc779f92e4,Grand Vitara,Headwear,9/24/2022,Glempang Tengah,6804
+e4347194-e000-430e-a200-144f8b61af9e,TL,Watch,01-08-2023,Stockholm,1112
+20699aa6-b3b5-4cc2-9a38-ea07d0d2a45a,Regency,Watch,08-06-2022,Birnin Kebbi,1362
+802a73c6-8174-4d17-894c-08c4963262c7,Miata MX-5,Watch,6/24/2022,Bern,6268
+9d72b32c-99d0-4874-8eaf-8d8f101826b4,Quest,Eyewear,6/25/2022,Lutoryż,6626
+0f0025cc-65cd-4875-a4d2-b7a9e826d146,Electra,Headwear,06-12-2022,Lakshmīpur,5702
+8b62b3b5-0008-4105-8390-5f8b6bd028c0,V40,Other Merch,10/24/2022,La Romana,5105
+011eb7a0-b9e6-4df3-9ba2-cb664db2df85,ZX2,Eyewear,2/20/2022,Noyemberyan,3513
+7ac10ba3-c315-4021-b930-5a406cc8fd28,8 Series,Eyewear,05-04-2022,Lewo,4170
+96ae3f68-564f-4aa4-9a54-6521363e5067,850,Other Merch,10-01-2022,Schiedam postbusnummers,5766
+5c4349b6-744c-4963-b9e7-4dbe8be32125,C-Class,Headwear,10/23/2022,G‘azalkent,2142
+29e168c0-f400-4a54-9c4b-633f6fc15c2c,Skylark,Headwear,3/23/2022,Dārayyā,5895
+e7bedffe-6a15-4a1f-accc-9c466d3af966,Daewoo Magnus,Other Merch,05-01-2022,Darhan,5876
+93ad1748-085e-46cb-b5db-c40b54a46fcd,FX,Eyewear,1/29/2022,Argentan,1790
+2b6d20b4-e174-41de-851b-91c030b414ed,Altima,Watch,12/23/2022,Reda,4259
+1c1ba2cb-d6e3-427e-beb5-d17f6beef713,Maxima,Eyewear,09-02-2022,Dongen,7631
+8011aec2-6160-4d26-9798-683ee2a136a8,Land Cruiser,Headwear,12-02-2022,Terong,8266
+c1f01cab-8f81-4f7f-a856-d49d0bf3cb70,R32,Other Merch,12/30/2022,Vilar,5680
+23f580ae-6586-4a4e-9d29-b41371a33b53,GT-R,Eyewear,11-01-2022,Leitões,8913
+eb730f12-6025-4d03-9d33-92b9be2f47c9,Cougar,Headwear,03-08-2022,Castelnaudary,3411
+ead63d2c-9ab6-4cea-99f4-1d7ff62e442d,M,Watch,01-08-2023,Visoko,2807
+bc359fa0-6e88-48d2-b869-c02446e60bc4,Concorde,Headwear,06-10-2022,Shangtang,5068
+d3902808-1909-4427-9131-ab834c365798,Pajero,Headwear,7/18/2022,Zhvanets,5360
+49d08e2d-4898-4948-8733-85118667f77a,Ranger,Headwear,07-05-2022,Charxin,3047
+54a0cd47-60c9-4903-bb43-56dc94f9d6f1,Blazer,Eyewear,09-04-2022,Baliang,2577
+0787e1bd-5cac-44dd-82d3-cab2794c7217,Range Rover,Eyewear,10-03-2022,Adiaké,8009
+babbde52-5a1a-4c99-bfc2-d821de28fa50,Continental,Other Merch,11/28/2022,Andaray,5633
+c311ad23-d006-4265-88a5-70af032da9cf,Explorer Sport Trac,Headwear,1/18/2023,Talugtug,6986
+fb2a66f5-098b-4925-862f-4f221df5b334,940,Watch,6/21/2022,Laholm,8472
+82a74899-836b-450c-8b0f-755364a2532e,IS-F,Watch,11/17/2022,Świętochłowice,6087
+88c55db4-79e4-4f55-b3a1-96cbb41246f8,Civic,Other Merch,4/22/2022,Jeziorany,1069
+f7871b40-9776-4024-a447-2c5574aad661,Range Rover,Headwear,01-12-2023,Rueil-Malmaison,9021
+55f91897-fd3b-43ec-bd39-43fa7259f907,Scirocco,Watch,2/17/2022,Muye,5220
+f47907ad-8a48-451f-9c44-5346a44487c9,Neon,Headwear,3/21/2022,Piaocao,9972
+b3434e2d-05e9-4aec-a443-749f4440c99a,GS,Eyewear,1/31/2022,Lao Suea Kok,1678
+c8a3d7e0-17de-4068-98fc-08036d733a3c,Avalanche 1500,Watch,7/30/2022,Pokachi,8350
+508a6804-aeee-4586-8f5c-9db8017338b1,Express,Eyewear,10-12-2022,Hrodna,3639
+9a478f97-734e-42f8-9c10-5e3e580b26a0,Daewoo Kalos,Watch,10-01-2022,La Guadalupe,6593
+b8e76c41-2f48-427b-9255-31c11a5174bf,PT Cruiser,Watch,01-11-2023,Lingbei,7098
+cded3089-062c-4643-92e0-03788b2474d6,Thunderbird,Other Merch,02-03-2022,Três de Maio,5488
+707324da-353c-455e-936e-eff51c9884b9,Fleetwood,Headwear,1/29/2022,Amherst,7442
+bb20adcc-930a-4646-9b6e-6218109acf0d,57,Other Merch,08-12-2022,Hebi,8759
+3dac5a71-7e25-4805-a9df-8431d532c17e,A4,Watch,03-05-2022,Baykalovo,8915
+5da99883-1a87-4fd0-9996-1522f527d403,Jetta III,Watch,11/24/2022,Rokietnica,4172
+6b8e1c7f-4460-4f7c-acb4-954c39ab9c37,Bonneville,Eyewear,12-02-2022,Daying,7861
+9634b821-36de-4acb-97ac-f7dbdbc3fe14,Stealth,Other Merch,05-04-2022,Troitskoye,7076
+d890407e-c7cf-439f-89ef-7cfb992fa1e5,Prizm,Watch,5/14/2022,Sosnytsya,1103
+056e0c4e-7bdc-4f9c-97db-9a1c0d286a0c,Suburban 1500,Eyewear,09-01-2022,Kolsko,6219
+741482f7-7474-4765-aa09-c33f8d57b11b,Silhouette,Headwear,12/21/2022,Dobryanka,1082
+63be34d6-60a3-467e-b5c3-8eeda591084f,CL-Class,Eyewear,1/25/2022,Walnut Grove,2602
+724dbcb3-826d-4506-92bf-c4e2a1b76cc9,Ridgeline,Eyewear,11-03-2022,Anau,3541
+9251bc56-2e5e-4304-8989-778a71346b8b,TundraMax,Other Merch,02-08-2022,Vendas de Galizes,5846
+c920445e-ab0d-4ff4-a11f-0b5a0ba061f6,GX,Eyewear,7/26/2022,Banjar Madangan Kaja,6829
+c10f9fd7-b746-4334-a0d9-56780b513547,Taurus,Other Merch,3/21/2022,Bobrovka,6827
+fe8988b3-f941-4c5e-82c6-6571ba24eec5,Silverado 1500,Eyewear,06-04-2022,Ar Rass,9413
+b98894b9-b07f-4375-9066-6ea73eee4d23,Grand Prix,Eyewear,10-03-2022,Sangatta,4424
+1dd28ce5-fa2c-44ac-99f7-90e826c88c0a,Explorer,Headwear,8/15/2022,Huaiyuan Chengguanzhen,6479
+e6c83587-3bfe-4e24-92eb-c55024930707,Chevette,Headwear,10/21/2022,Anyu,6299
+5909aa58-5fc1-40ee-b665-5c9bfe4df278,Five Hundred,Other Merch,6/26/2022,Erandique,9743
+a2ed3a0c-4dd4-4444-9e30-e3cb19790a0a,Ram,Headwear,11-12-2022,Lansing,8737
+3b364240-10d7-4f10-8e57-ce8cc0b49297,Azera,Eyewear,02-07-2022,Sula,4606
+f102739f-193b-4632-8580-de8e0f5db7c6,Miata MX-5,Eyewear,04-10-2022,San Calixto,8826
+8d47494c-9a90-4509-adb9-560d2bce4df4,Century,Other Merch,7/31/2022,Jiucaizhuang,2841
+8f8bc0dd-7648-4e22-9dac-d6870b8491c6,S90,Watch,8/21/2022,Caidian,6304
+e6be151f-00bf-45cb-ba4c-e20b90e2f3b0,1500 Club Coupe,Headwear,5/30/2022,Long Thành,5013
+657ef483-0b39-42c9-934d-4435c54c3729,Sunbird,Headwear,08-05-2022,Tocok,4594
+c3a673fd-34dc-4e43-9645-e5b2115abe26,Mazda6,Eyewear,08-08-2022,El Quebrachal,4590
+ed51cdf7-501a-4935-a6e2-13d384f7dbf6,LS,Eyewear,7/27/2022,Basyūn,3406
+38fd70ae-079a-44b3-a63c-0fcf54428ca9,Q,Headwear,1/30/2022,Kindersley,3284
+00777576-9c93-4b1e-93c0-5b8adf985359,Grand Prix,Headwear,10-11-2022,Mocajuba,7994
+e8375cc7-33e6-471a-9da5-a423922cab2f,Jetta,Other Merch,5/21/2022,Balangonan,7052
+5f06cba1-1435-4907-8f2d-ac4b0965a63c,S-Class,Other Merch,7/29/2022,Boawae,2439
+604f0204-c9ec-4a46-8b4a-a56a6c005072,Trooper,Watch,9/22/2022,Huajie,9849
+06c06aa3-5533-4749-af15-f6325b60e7dc,Forester,Other Merch,11-12-2022,Xinning,7041
+a4b94e3e-8a6e-4675-8758-0ac170eb762d,Thunderbird,Watch,11/13/2022,Taltal,1716
+9651a6b3-550f-4bda-9c89-7dacff436488,TL,Eyewear,3/14/2022,San Rafael,3573
+3312ea75-1c64-4cd1-9ff6-84f2f5d39b54,7 Series,Eyewear,11-02-2022,Căuşeni,1413
+15bfb840-9983-4870-b3a8-7879d6c41f6a,Yukon XL 2500,Watch,2/14/2022,Catarman,2276
+3a5f591f-bc96-4c97-bcff-a5b8c1b39270,Prizm,Eyewear,09-09-2022,Zorak,6157
+adeb006e-b96e-4703-a46c-eddc2ca71d27,GranSport,Headwear,10/20/2022,Mierzęcice,2604
+5b7adb10-a0b0-4fe2-beb2-efb7180289b5,Elantra,Headwear,04-08-2022,Sololá,8590
+36c65c71-6c8a-44dd-a5a5-40cf7adfedd5,Brat,Eyewear,5/30/2022,Pýrgos,9295
+33277f6b-d0c4-4a21-8432-5b2fbe0c5408,Acadia,Eyewear,10/21/2022,Karangora,4792
+9b507fbf-967d-4f73-9375-2e92003bd17b,Classic,Headwear,02-01-2022,Ordóñez,4048
+67ad55ee-e911-4e6d-abc5-c7c635ae6550,Daewoo Lacetti,Watch,05-06-2022,Kula,8621
+a51e0595-8baf-4806-9005-f429526fafb7,Grand Am,Watch,12-03-2022,Jinping,2497
+355abd58-d8bf-455e-afc7-c0473456bf78,ES,Other Merch,3/27/2022,Pandanwangi,5132
+35997a17-7e4a-4816-838c-ebd805ae42f3,K5 Blazer,Headwear,6/24/2022,Maurisu,4389
+193d9926-61fb-4664-b605-40d84a2d75b9,4Runner,Watch,06-10-2022,Nueva Guinea,4875
+537f73ee-a3df-4b5b-a09a-fe88849918a0,Touareg,Watch,07-01-2022,Pereslavl’-Zalesskiy,1025
+d2e1d58f-954e-492b-92df-18979dfefd4d,Imperial,Eyewear,8/13/2022,Bilaran,1090
+ab7b1407-a911-41b0-9361-fc7e6a968ad0,Silverado 2500,Headwear,07-08-2022,Retreat,8505
+6ad1d4fc-7d4e-420d-8a6d-279c8a868bcc,Corvette,Watch,1/31/2022,Pereiros,7690
+3d010ca7-03a8-4f50-b016-e67d73c11761,Blackwood,Watch,05-11-2022,Tanamiting,9729
+f411341f-e781-4b46-b100-3fa144a81c29,Boxster,Eyewear,11-04-2022,Independencia,4722
+444f647b-ce60-4419-9140-a7b79a14a1a3,Escalade ESV,Watch,1/14/2023,Lidingö,6190
+af062573-62e1-4493-a795-7114595606c2,Sierra 1500,Headwear,3/17/2022,Caçapava,6432
+41d17733-c814-40e0-a5a6-b0cb1fe5d829,Thunderbird,Headwear,11-10-2022,Jiacun,6142
+753cb3eb-0a23-40a9-a593-55eee3e6af36,Prius,Watch,2/15/2022,Cajolá,1621
+ae6b848b-400c-4aef-8983-0a2c36f73053,Sable,Watch,9/15/2022,Gampengrejo,9116
+4ca1ef39-1931-4f5e-995d-ce4fae387622,Trooper,Eyewear,4/16/2022,Huochezhan,6741
+85a950a2-8237-44e1-be80-c8cdd0e5fd75,Traverse,Eyewear,12-01-2022,Serdobsk,9026
+c6fadfa2-f028-455f-809f-eba2e62ae3b1,Cirrus,Eyewear,02-09-2022,Thị Trấn Vạn Hà,1597
+4abe4e92-f8cb-4a0c-a8f8-b2aa37aa5cd8,Yaris,Watch,11-07-2022,Nairobi,1904
+b9991374-651c-4521-9224-e2dbb2019b96,Q7,Headwear,8/26/2022,Schieren,8120
+d68ecebf-49c8-4608-b0a1-4cf30650f770,B-Series Plus,Eyewear,06-04-2022,Itatinga,2234
+8a8c8847-f284-4187-b40d-6c72f8bb3790,4Runner,Eyewear,12/20/2022,Koilás,9462
+18fbc7f1-ae0a-41fa-a10d-60e245aa6f05,Aspen,Headwear,10/24/2022,Bayombong,8857
+c7d81b2c-8f8c-4d4c-979f-cc46b89f4645,Swift,Watch,9/19/2022,Wuli,7667
+4a095f13-b8d0-4f4e-8b4b-653cda043031,Sportvan G20,Watch,08-06-2022,Delgado,8334
+660c4a61-7f5f-41c2-a23c-14a77b77a6e1,New Beetle,Other Merch,11-06-2022,Taizhou,3680
+8f837540-f66a-4d36-9de9-a230915c1261,300ZX,Eyewear,11-11-2022,Parista,4460
+a3287d63-03d5-4ba5-90cb-280e4fb967a1,C-Class,Eyewear,02-01-2022,Engenheiro Beltrão,4684
+b5f7b8d2-798e-4646-8856-26371cda59d1,Miata MX-5,Eyewear,11/30/2022,Cacaopera,4723
+bcffe29e-6dbb-4beb-999a-1c0126f0e268,Genesis,Watch,1/30/2022,Bitanjuan,8434
+334f9654-b97b-48df-a56e-9f9edf8cfaf9,tC,Eyewear,5/22/2022,Al Wajh,8585
+e8c10780-58a1-421a-ae19-7c05f186be01,Tundra,Headwear,3/24/2022,Tanarara,5502
+4be72f06-147c-4d19-8f16-096e59b8398b,Tundra,Watch,07-01-2022,Az Zabadānī,8528
+6b7e3b78-2013-4aaa-a949-5d1d7193af3c,Frontier,Other Merch,7/18/2022,Jatinagara Kulon,5252
+b2e0b38b-449d-4690-9813-26d4dc986963,929,Other Merch,4/16/2022,Blainville,6429
+420451d9-2f0b-4f00-bc70-768126f09698,Mazda6,Other Merch,12/20/2022,Toumodi,2569
+7f1f4bf1-bfe9-4cb0-b5a1-4913b61806b9,Mountaineer,Eyewear,01-06-2023,Köping,6860
+3e5cb695-4d61-4285-bf75-1347f0e41b18,Pajero,Headwear,09-11-2022,Kirgili,2910
+632f9205-5759-4d1a-a55f-4c69f5a71f6f,MKS,Other Merch,12-09-2022,Ayapel,8319
+ad814f92-806b-4863-8a62-d3ea93cef4e9,Ranger,Other Merch,10/14/2022,Kampong Speu,1906
+ff99a2c2-cd46-4ede-8271-0b1d04bff8c9,E150,Eyewear,02-03-2022,Baishi,9553
+6103538b-db2b-4886-87d3-a91e458947e0,Wrangler,Headwear,07-09-2022,Tanjungjaya,7391
+f97523c9-a7fa-4fa6-806b-f18cd98f6041,Tracer,Headwear,8/21/2022,Nggelok,2463
+bb696f09-6f02-4b07-b25e-db78505c8938,Sierra 3500,Other Merch,2/15/2022,Nizhnevartovsk,7365
+fa6cffe6-50c4-4ea8-898a-8d14a2d776c2,Grand Prix,Watch,01-04-2023,Kawangu Satu,6239
+036a8f51-a616-4373-9e42-2699241c701d,Tahoe,Other Merch,4/23/2022,Piekoszów,7344
+12900b1f-ae4c-4fb2-8f7a-3e1024c65031,Virage,Eyewear,05-08-2022,Gardinovci,1898
+f24368d5-b802-478b-ad2e-c97c7b08fb00,Prelude,Headwear,06-10-2022,Le Teil,3983
+df8e8c96-61ec-4e80-a334-1e151b1f172e,GT-R,Headwear,4/16/2022,Xiong’erzhai,1204
+b831bb75-5269-49b7-bbf3-db14a31135e9,Firebird,Other Merch,6/22/2022,Vegachí,2510
+3e646ba6-c341-45cb-8fb0-99e3098c7db2,SJ,Watch,05-12-2022,Odolanów,9683
+1e025717-71f9-4975-9657-8d889b796e2e,LeSabre,Watch,7/27/2022,Dana,9967
+82fed08a-a80d-4015-aaf2-416e38414794,Space,Watch,12/18/2022,Novohrad-Volyns’kyy,6283
+b02b6c7a-cf82-43f9-aef3-4e491125fd8d,Camaro,Headwear,8/16/2022,Huacrachuco,4823
+cd8c4868-9451-45e8-bcc2-d2c2f5f57c15,Th!nk,Watch,7/16/2022,Hinunangan,3290
+51662bd8-33f4-42a0-b96f-a013a29ba3fc,X6 M,Other Merch,9/19/2022,Isak,8323
+1ab0fdf6-969d-44e5-afae-861587f18449,Liberty,Watch,4/14/2022,Xinhui,3512
+019ec2fd-385e-4d13-a29d-62465eece824,Raider,Headwear,09-10-2022,Tilburg,4819
+1e15b092-5631-48ff-b4fd-ff2d002f0a5f,600SEL,Watch,08-02-2022,Dadong,7168
+d76bf4ce-4d04-4d25-8ad7-861fcfda3137,88,Other Merch,8/31/2022,Zhumadian,3505
+d4e60530-5e2a-4477-bafc-5ff6569aaa54,Galant,Watch,04-10-2022,Valašská Polanka,8633
+9cb281cd-d27c-40a0-82a4-c2b356d501e2,Leone,Watch,02-05-2022,Alupay,4285
+80281d7f-467e-4628-9642-9ec6faef5a3e,Familia,Watch,1/16/2023,Sunne,7541
+bcb77a2d-99d6-45e7-81ea-5c3480eef75e,Riviera,Eyewear,03-11-2022,Santo Amador,7885
+f0ef0e5b-00c2-4b19-9ced-ba3d81d403bc,Corvette,Headwear,8/17/2022,Tīkāpur,1751
+d585f993-033c-4cfe-8053-5eaedd220cfe,Grand Cherokee,Other Merch,4/20/2022,Čapljina,4918
+ef1ea6cb-9f85-4797-8b27-0ae1a94d3b7e,Prelude,Watch,12-10-2022,Olival,6240
+87c86fa7-5c0a-4556-b637-131b8b212b60,Mirage,Eyewear,5/21/2022,Dalubian,2541
+df9f771b-cb06-413e-b5a9-4c7373273ab1,Grand Am,Other Merch,11/27/2022,Orenburg,9961
+b44bdf92-e7b7-4085-8022-27d0c98f043e,GTO,Eyewear,8/16/2022,Naga,1780
+3c890522-ae9b-44b7-98d6-0d4b71bc1a6c,Tacoma,Eyewear,12/26/2022,São José,5266
+eaaf5dfe-be03-4583-adab-d45be9d4962a,Range Rover,Eyewear,4/26/2022,Fuente de Oro,3294
+d60e330c-d4cc-4070-980e-14537b195676,Prizm,Other Merch,6/15/2022,Acas,7523
+22167b10-c1ab-4928-9bc1-123cc2977db7,SC,Watch,3/30/2022,Iza,1350
+51facd31-c6bc-497f-af18-d7eab6fb6eb6,Shadow,Headwear,5/16/2022,Bedadung Kulon,4561
+71733111-dfed-45c1-b309-e0ca8b483200,Scirocco,Eyewear,03-09-2022,Mogwase,7942
+45291fb6-c51b-4f78-a477-8d0ab9c7453f,Reatta,Other Merch,6/27/2022,Long Layu,9874
+9233c4f9-84f0-4b03-83ea-79efc3f5a028,Grand Marquis,Eyewear,05-06-2022,Sulang Tengah,2384
+d538ae5e-9913-424e-8b38-dde2863d33fa,Leaf,Headwear,05-07-2022,Dzagam,8503
+d919364c-23d7-4442-bf05-48fa3743642d,Outback,Eyewear,7/20/2022,El Paraíso,7218
+da9a8a24-81b4-4c17-a547-2d59e12ede85,Mariner,Other Merch,1/15/2023,Tehetu,6511
+75d4a4b7-f8ae-401b-a0aa-f3365791413b,Clubman,Headwear,12/14/2022,Jiangcun,8999
+2760f90f-0e47-401b-abc0-b882d8a5a554,626,Watch,03-01-2022,Martinlongo,2515
+b608c3c7-ce89-4b63-b239-28d04989ff69,S8,Watch,11-11-2022,Geneng,2976
+bee03bd0-bdc5-4e27-91c8-9f1929691c42,S-Class,Other Merch,1/18/2023,Caldas das Taipas,9872
+6a2e0978-073b-4033-86f2-809fccfe928d,New Beetle,Headwear,10/21/2022,Ljungby,5948
+79e830f9-f0bc-473d-81bf-63e25fba8ecd,Tracer,Other Merch,12-04-2022,Tekikbanyuurip,8265
+6104cafc-9764-4909-a3c2-0a0a32250dc7,Explorer Sport Trac,Headwear,9/24/2022,Stockholm,4049
+4d465dfc-c47e-43be-9c55-cfd7e0ffd8af,LR2,Watch,6/25/2022,Erie,3783
+2cda9a61-2bff-4cfa-81ef-4ab5d3268102,Ram Van B350,Watch,12-05-2022,Bragança,7080
+fdf68f6b-d843-43b2-a9d3-214b2ac64ac5,Prius Plug-in Hybrid,Watch,2/24/2022,Sabana Grande de Palenque,3343
+e611ac1d-993a-410a-941a-e8f2871aa327,Genesis,Headwear,08-06-2022,Kassándreia,9221
+c4c2bcf5-9e36-419f-96ed-746e552a6f40,CL-Class,Eyewear,6/21/2022,Jinping,4642
+ee967168-aa27-45f5-8108-39ff085a30bb,Land Cruiser,Eyewear,12/25/2022,Rzyki,2489
+42e5fac4-27aa-4dcb-8bb2-7d899bff9ac8,DBS,Headwear,03-09-2022,Ké-Macina,9531
+a9a94ffc-1c90-46d8-8f61-7cfb1fc5c64a,Daewoo Lacetti,Watch,02-02-2022,Agarsin,5713
+08ae62e4-0452-4623-a0b9-3bce5e20e08f,Matrix,Other Merch,12/25/2022,Barda,8266
+711f38a5-2db0-4810-ae3f-66e828940977,GX,Headwear,1/24/2022,Insiza,4476
+77ad73d8-326d-4c27-8ee2-c64e4a3e181f,GTO,Headwear,9/23/2022,Sacramento,3467
+c0d2d701-ea5d-49e8-a627-df3dd0ae3cec,F-Series,Eyewear,12/16/2022,Margotuhu Kidul,8660
+8e512311-529b-49e4-a734-8fe2b2290651,Crown Victoria,Watch,6/14/2022,Pickering,6755
+509a6f7c-7259-402e-bd61-ebfd0c08709b,300E,Headwear,09-02-2022,Anserma,3633
+36f6afcc-48d1-4ce8-8be6-03d57fab573d,Bronco,Other Merch,7/18/2022,Gambalidio,3640
+7010e22d-1a13-4b1e-99d5-8548efd1a770,Genesis,Headwear,1/25/2022,Kyzyl,8190
+7f18db32-605b-4e50-af17-7319f8828ea2,Cayenne,Headwear,07-04-2022,Yukou,1668
+97480420-1435-4f67-b6ca-ff31da1ba205,W126,Eyewear,9/14/2022,Toulouse,2973
+41983197-0771-4bbd-82af-9c189b0e4640,Cougar,Other Merch,9/23/2022,Bojnik,1710
+ef9da8db-ca93-43c5-961d-253ba75b9b1a,XC90,Eyewear,11/17/2022,Battaramulla South,3791
+f2cc2482-313c-45a5-a0b5-3fd535358b8d,LR4,Watch,12/23/2022,Haljala,9476
+8ee32086-1740-4d60-ba99-48edf9b2f2cd,Spyder,Headwear,10/23/2022,Tumbes,7302
+8496bb15-4e70-4f4c-b386-a91d73133f66,Coupe Quattro,Eyewear,11/29/2022,Rouyuan,1641
+5565fe0f-7e70-459c-b5d4-56859c718a3f,Thunderbird,Other Merch,10/14/2022,Hexi,9059
+789c019c-b28c-4293-bda6-c15fffed5193,C-Class,Watch,7/20/2022,Přimda,3201
+514f949c-7973-480f-a5cf-281c10c67e34,S-Type,Other Merch,1/14/2023,Sentani,7306
+9f01fd26-a4e1-495d-aab6-5f25dc54aa4f,Civic GX,Other Merch,12/19/2022,Nantes,8373
+7a438430-c736-4511-9434-a6ba33419d49,Frontier,Eyewear,5/21/2022,Alma,9897
+17eb1e66-5e45-4cbf-b387-cf1722c8c81a,MX-5,Eyewear,4/30/2022,Armavir,8600
+8a6c9ae6-e35d-442f-b2a4-2651ab705a78,Grand Voyager,Eyewear,10-10-2022,Färjestaden,3218
+893c1391-ff68-4ffa-b7c3-2b9184e18a20,9000,Headwear,03-05-2022,Noebesa,9033
+495b6a2d-e4ee-4c01-998b-844ef7a8049d,Ram 1500,Headwear,8/16/2022,Norberg,6415
+d74e833b-1ebe-489c-bdcf-9a72cf815a2f,Wrangler,Watch,8/16/2022,Sundbyberg,7923
+38cafaa0-abc4-4bc6-ba5b-e52f6050f3a8,Sonata,Eyewear,02-01-2022,Sumberjo,6882
+b3eecf73-f24b-4310-9d7b-86db64688844,Sonata,Watch,08-02-2022,Hola Prystan’,5256
+b98f134e-bd4b-44bc-b2a6-c5e788cdfa50,Caravan,Eyewear,09-08-2022,Kuragaki-kosugi,9957
+f1b30a18-6e23-4240-9995-90c85f294ca1,VUE,Headwear,02-08-2022,Shizuishan,7815
+12126400-6292-44b2-9ae2-f580534365fb,Intrigue,Eyewear,11/25/2022,Yong’an,7605
+0804e698-7904-4ed0-80cc-8fa916539ecb,GTI,Watch,09-05-2022,Kopidlno,1665
+5955b5ca-87dc-4ac9-97aa-9812608ffa21,Safari,Other Merch,3/18/2022,Nantou,3948
+9c37efb9-3c2f-482d-8ee4-abaea2617322,Envoy,Other Merch,08-07-2022,Paranapanema,9859
+bb8bb439-7803-4afe-9d6e-e012a5642f9c,E-Series,Other Merch,8/14/2022,Brongkalan,8552
+9d8d86e9-362c-4148-bae4-a497622f3a12,E250,Watch,2/25/2022,Podgortsy,5920
+5c9ac941-86cf-4bb7-a804-fce96b9f9893,Precis,Eyewear,07-07-2022,Crossmolina,6225
+cc0619d5-87c6-4bdc-8c5b-0645e32eb500,GTO,Watch,8/16/2022,Obeliai,2477
+4cf5babf-daed-46dc-b469-e1dc206a1f30,Regal,Watch,4/23/2022,Ichihara,1742
+962a3e4f-17f8-4e5e-8fe9-4f08f25e8518,F350,Eyewear,2/18/2022,Lufang,3643
+cea538d6-9913-43a1-91da-da98b15f2dcf,Navigator,Watch,05-08-2022,Tigpalay,3296
+50ae9be3-b634-4240-a86e-088277f4a797,CLS-Class,Other Merch,5/14/2022,Trondheim,6230
+7acd8dcb-e373-4364-abc5-fa82843e43a8,Durango,Watch,04-05-2022,Florencia,8613
+72d5a3cc-ccb6-44b1-bb7e-bf3025b80869,Montero,Watch,03-11-2022,Pereira,4923
+665d2fca-f3be-4012-aa70-6103a178f643,Rally Wagon 2500,Watch,7/25/2022,Vrilissia,6972
+66798db5-aacc-40f4-ae80-aefbe540ea19,300,Watch,11-04-2022,Biecz,8738
+216b00f6-27f7-48da-b24b-618fd743e835,Ridgeline,Watch,11-03-2022,Pico da Pedra,5579
+1e3646b4-28a0-41c0-b5cb-004e5a70211a,Firebird,Eyewear,07-02-2022,Zlechov,5981
+81b1ad93-bc7e-4eec-bb0d-a31b1fa5c041,MX-5,Eyewear,05-01-2022,Rosebank,1979
+3befcf4d-cdf2-4aa3-860d-0ce272cad3d0,Equator,Eyewear,4/16/2022,Hukeng,5310
+8f496602-107d-462f-acd1-5cec1be5ad18,LS,Eyewear,11/17/2022,Rancapeundey,8491
+d5068f15-c47e-4d00-b765-76dcd0343020,Canyon,Eyewear,9/26/2022,Petit Raffray,4481
+1cdd6667-aa01-418c-a319-e3385301b6f0,Ram Van 1500,Other Merch,7/14/2022,Gävle,1383
+cb42cec1-0cdf-479a-9b52-c9323c072d1c,Corsica,Headwear,10/16/2022,Iquique,8701
+8e507d8a-edb9-408d-923e-bbaafa8bceeb,Silverado 1500,Watch,12-07-2022,Lapas,6627
+6e8dee77-0de4-4d49-8202-cf35887bdb36,Minx Magnificent,Watch,5/14/2022,Uubulan,4066
+c5f0bda7-ec45-4061-8f12-e3b76f55e0cd,Spectra,Eyewear,7/31/2022,Katagum,8284
+59140fbb-3692-4c54-9b65-29991f8dff55,Element,Watch,05-10-2022,Châteaudun,5485
+08d8ba0f-e1bc-4520-ad26-b5612a17d2ae,GTO,Headwear,1/21/2023,Korogan Timur,6490
+eb21142f-6165-49d2-b08f-ace3281478d8,Firefly,Watch,08-08-2022,Santiago,8418
+99c6b009-f433-4632-9636-136b50bda416,Skylark,Other Merch,2/19/2022,Ouahigouya,1387
+0a43268f-899b-498b-94cd-62bf84187ed2,Spectra,Headwear,11/28/2022,Lousa,9143
+d707a13e-0e0f-43e6-803e-920337db52da,LS,Watch,11/16/2022,General Emilio Aguinaldo,4670
+433aa39f-adc3-451b-ac46-ec3069953eaf,FX,Other Merch,03-11-2022,West Jerusalem,7878
+3de742cc-33a9-428f-9c82-aa6b089b9b50,Quest,Headwear,8/16/2022,Salām Khēl,9578
+b4de3b87-b8d3-4e13-8b5e-40ed158bac70,Impala,Eyewear,12/13/2022,Lanchkhuti,4069
+8cbecc4a-2cc2-475c-86d5-0310f715ce29,Falcon,Eyewear,01-01-2023,Baitian,5489
+73c1370d-26a8-4536-95f1-11a375dc938f,Ram 3500,Other Merch,10/14/2022,Shedok,5632
+9ff3789f-0b52-4a05-9b94-783e06c6d6ec,F-Series,Watch,7/23/2022,Bartniczka,5154
+c9a5e6a7-6abe-4242-9185-e9ce01c4138e,Firefly,Watch,08-11-2022,Kama,3918
+38b70371-d245-49af-9dce-8aa449d5bd28,Avenger,Headwear,04-02-2022,Balky,1781
+b2c05a26-7e21-4113-bf94-92531b7de9f3,Defender,Other Merch,05-12-2022,Banjar Jambe Baleran,3779
+188398ef-b662-4260-ad8f-047621ca001b,09-May,Other Merch,2/15/2022,Guniushan,9141
+1d61c0d5-51f4-4140-be5c-ffcd1c4afe09,SJ,Other Merch,11-10-2022,Kiuola,6857
+7d6f9651-765e-4c84-936c-fcc9215ff7ae,Versa,Eyewear,1/13/2023,Purabaya,8613
+601c2b95-419d-42ca-9fb2-ac7addeb75f1,Accord,Other Merch,4/24/2022,Guaymango,3387
+2de05bb8-a985-4abd-8311-8a1a7db555a1,Sedona,Eyewear,07-05-2022,Fort Portal,1585
+c8f93219-ab9a-44bf-bf0b-5da4b2488ccc,TL,Other Merch,07-08-2022,Plácido de Castro,1136
+b4ea1d72-6761-4b7b-b00e-1ac96c676c36,Challenger,Other Merch,12-07-2022,Daohe,7451
+9dcd0a2c-b548-4bc2-8831-154fb1503d01,Vandura 1500,Eyewear,06-11-2022,Macklin,6861
+1471e1c5-a426-4305-8128-df1b34e9c9c6,Mountaineer,Watch,3/31/2022,Dobrzyca,9594
+3cd59e79-c8eb-46e0-8ad1-b6392322106f,09-May,Headwear,05-10-2022,Boawae,2221
+fe373d97-2ebc-4c4c-a9ea-df1ee5df9f20,Venture,Other Merch,11/21/2022,Ku‘aydinah,9843
+ad153fe3-49ad-40fc-acfd-d61ab7c31005,Truck,Other Merch,01-05-2023,Mendez-Nuñez,2215
+8f320f4a-61cb-4e12-95ac-429ec18d77f3,Savana 3500,Eyewear,6/14/2022,Dahuangwei,1017
+76e6949c-9d84-4b1f-96fc-81df2e0d316d,Caliber,Other Merch,5/31/2022,Taiping,2886
+ea9413c2-af03-4546-9d18-0959a2263871,XJ,Watch,04-05-2022,Carmen,2439
+82ae9541-691c-4258-9b2a-636db5795748,Wrangler,Headwear,10/26/2022,Macapsing,5242
+6ecc581d-92f4-4506-a12f-f706898570d9,XJ,Other Merch,03-01-2022,Obsharovka,4218
+7ad4a061-acf8-4d60-8abb-662155019460,GL-Class,Headwear,6/30/2022,Bang Sao Thong,9300
+beae5f90-f35b-4836-b29a-cfaaa5275eb9,Yukon,Other Merch,2/13/2022,Sandy Bay,4212
+6a9f2e36-57e2-492a-b617-142ea5d21ffe,Mirage,Headwear,08-12-2022,Nafada,1492
+c299b9c4-2631-42e4-8217-e2147ec38e18,Navigator,Headwear,10-09-2022,Serebryanyye Prudy,4536
+705cc382-8ce6-4d8e-b883-a3094c1d7684,Cavalier,Other Merch,2/20/2022,Lapaz,1375
+5b4ba024-0448-4e57-9342-a820519b78e7,Ranger,Headwear,11/23/2022,Tosu,9235
+1c7b5cbd-072b-494f-ae0a-103050d0f490,Caravan,Headwear,1/19/2023,Umeå,6177
+21a68ce1-0693-491d-8e39-766162b4392e,Town Car,Eyewear,11-05-2022,Arkalyk,7163
+5c50578d-853a-43f1-9638-76655922e0b1,DTS,Watch,07-07-2022,Bonneville,3943
+6430961d-dc7b-42ab-89f6-53a906e39c26,Lumina APV,Other Merch,6/16/2022,Sioah,5396
+032e42b9-1385-4665-b92b-e79f9d98c7b4,Sonata,Watch,02-11-2022,San José,9028
+c5fc9a91-26d7-4bc0-90cd-1fc6d576b70c,Sable,Eyewear,8/28/2022,Ji’ergele Teguoleng,2645
+0ac59639-189c-418d-a293-52417d770e0a,C-Class,Headwear,6/23/2022,Ostrowite,1931
+72a216ed-1816-403c-aa2d-2364901210f8,SLX,Headwear,1/17/2023,Kuantan,3502
+afd9c86e-99f8-4e24-953f-0033bcf38670,940,Other Merch,4/27/2022,Phra Phutthabat,2911
+784c1dcc-e605-437c-a9ef-c24188f4e43a,Outlander,Watch,5/16/2022,Sampir,9734
+dad49384-164d-4945-81ce-1826ced2ae05,FF,Eyewear,4/23/2022,Usatove,2145
+78b5c21c-bb3e-4b3f-b2bf-9ca102435d4b,IS,Watch,09-05-2022,Strasbourg,8669
+e2531d11-b60c-4d2e-8880-bef69fb5ee1c,Golf,Other Merch,07-03-2022,Boulder,2045
+585f65de-d026-4fed-bcb4-e9b2ac8dd223,Golf III,Watch,11-09-2022,Juancheng,9608
+f08c42e4-feb2-41b1-8fa4-7bb3b98021c3,Tempo,Watch,07-08-2022,Mochumí,6201
+34a3245e-75f8-415d-ad5f-de77edf9c9de,Sephia,Other Merch,1/14/2023,Haugesund,6563
+9e074344-8626-463f-a933-f5dff7af631c,Savana 2500,Other Merch,10/26/2022,Golubinci,9230
+32af5871-aa01-4985-8418-77fd10dea246,Roadster,Headwear,03-01-2022,Potrerillos Arriba,6431
+d6134029-09aa-4edd-bc05-b276e9111e5f,Century,Headwear,03-06-2022,Buri,1734
+39761608-d68b-49ff-b5db-8c797ca00802,Escalade,Other Merch,01-09-2023,Hortolândia,4014
+4bf00c9a-69a6-4fb0-964d-0f52fbd67937,Civic,Eyewear,2/15/2022,Tongren,1149
+07407b0b-0666-4103-9d8e-29063630da4d,Ranger,Headwear,05-07-2022,Longyearbyen,4406
+0435a38f-4422-412b-8baa-6d6049e60767,Suburban 1500,Eyewear,7/14/2022,Bibirevo,5574
+8eafbf93-bd42-42fb-83ed-ac522072168d,Lumina,Headwear,05-06-2022,Shuangmiaojie,3937
+e6fb2feb-871c-44a3-bfa1-da52a296a955,3500 Club Coupe,Watch,4/30/2022,Slatina,7463
+96bcc13d-506f-451e-92d9-6b63d0246d0a,Town Car,Watch,12/20/2022,Si’en,4862
+feee5e85-f276-4a1d-9daf-cc82364d8537,Envoy,Watch,8/22/2022,Krasnyy Kholm,8044
+2613b9aa-7847-46f6-922f-4015132aeee6,S80,Headwear,9/21/2022,Aranyaprathet,3006
+e2335a76-3057-4d23-88a3-4eb474d600e7,Fox,Watch,3/29/2022,Jishu,3411
+82b884a7-a972-4912-aebf-78b29f27d235,Aerio,Headwear,1/17/2023,Aloja,6747
+f5aae995-e511-48a2-a33d-31eb77624dd2,Sentra,Watch,05-08-2022,Toba,4397
+59154611-3abd-48e3-a10e-73196b7691da,Aspire,Watch,07-10-2022,Cartagena,2497
+47f91e00-d77b-44f6-9dac-09db0a2534c8,300ZX,Other Merch,05-10-2022,Quezon,5612
+f285b4e3-b97f-41b1-8f6a-3922d3c52697,Tundra,Headwear,04-12-2022,Zepita,2385
+f244c5a7-5b1c-4aea-8abd-0360c4af2a2a,PT Cruiser,Headwear,03-10-2022,Hamilton,1954
+e1a3a822-2318-45a0-bfa5-b9733138d3b3,Amanti,Other Merch,09-10-2022,Ujungpangkah,4642
+a09e424e-d42d-4e69-8e62-d85a850185fa,Prowler,Eyewear,08-02-2022,Danja,2360
+12179678-b7fc-4419-a85e-ae281e436f66,tC,Other Merch,09-10-2022,Butterworth,4180
+50365647-4cb2-4c78-875c-26e411d953b5,XT,Eyewear,07-11-2022,Ocumare de la Costa,7854
+f98caa0d-e291-4112-a2eb-6c32b065b78d,L-Series,Eyewear,12/13/2022,El Puerto,3900
+178a4c7a-68c3-4006-9983-b688df3edaf7,Corolla,Headwear,3/20/2022,Kostino,8066
+82691b44-a498-47fe-bf0d-81c1eabb1615,F150,Watch,9/24/2022,Regla,5747
+f5daf46e-4ab5-42fc-a6f5-958287e27d17,Grand Caravan,Eyewear,09-06-2022,Heze,8034
+099b83d2-dcdd-46b2-b8e2-5947794efde2,G-Series 3500,Watch,11-02-2022,Dobrá,4116
+82c37ca4-3d71-4aa1-a8ca-205f78b76db5,Expo,Other Merch,8/30/2022,São José dos Pinhais,4560
+e27acbd2-93cf-49df-8025-8559cee382e0,Altima,Eyewear,12/18/2022,Tromsø,3491
+8401d138-e93a-4a46-aa13-44e6fe2f67b2,300D,Headwear,1/27/2022,Macinhata da Seixa,2271
+e7696911-ef7d-4765-8770-abec25716e9a,Yukon,Headwear,3/25/2022,Montería,8409
+09e65f2f-0a90-4130-b6be-0aa5a38eaa95,SLR McLaren,Other Merch,01-02-2023,Boyeros,6758
+2cd6d04f-42ec-423c-90ef-32f21e49a040,SJ,Watch,5/16/2022,San Juan Ermita,5192
+1b834f68-45af-4a2e-9703-33beed6ab667,Vandura G2500,Eyewear,6/27/2022,Xihe,7484
+f5d938df-dcd3-49a9-ad51-5fe1596280f9,Crown Victoria,Headwear,5/16/2022,Mozhong,7496
+a3dec605-72cf-4096-ba59-882ce2f12be8,Leone,Other Merch,02-03-2022,Jabłonka,3819
+3acfc076-bc88-4230-8a52-d836afe32f6f,Excel,Headwear,2/15/2022,Novo Cruzeiro,3061
+394ff1a1-6ffd-4053-a902-93cc5300c2e6,Tundra,Eyewear,02-08-2022,Kazanlŭk,5236
+5cd2bf9c-9e94-4610-a07a-66b3f570f7fb,SLK-Class,Headwear,03-04-2022,Pułtusk,7403
+6a62c774-e4c5-4db4-914b-b4da9ffc965f,Odyssey,Headwear,05-01-2022,Lisui,2477
+cdead846-b4f4-41fa-9666-6fc139a9c509,Accord Crosstour,Other Merch,09-02-2022,Besançon,2111
+2d42a45f-a262-4898-bd6c-978fdc9c23ae,Stylus,Headwear,1/28/2022,Namboongan,8645
+a07a3fa1-bdb8-4b29-a06a-0ac243030a59,Escalade EXT,Other Merch,11/30/2022,Oromocto,9018
+fd8bc360-8376-48be-9163-28464288a7ce,Passat,Watch,05-06-2022,Köln,6251
+521b481e-1936-4fb8-b9bb-fa010a41aaef,Accord,Watch,01-10-2023,Sheffield,9334
+a854bff4-3e60-43ad-acac-c0de46d76618,Veracruz,Headwear,06-05-2022,Sawaengha,2353
+37e442f7-8180-4a3f-bee7-bb2fac3f5d30,Range Rover,Headwear,1/23/2022,Cigarogol,2795
+9fc19660-9ef9-4794-849a-cb9c6e0194b7,Suburban 1500,Watch,09-02-2022,Mabayo,3626
+10c55334-c930-42f1-ab01-90212c91cd39,Spectra,Eyewear,06-11-2022,Tianya,2261
+9220e061-a07c-429d-a5dc-4d6499f86793,Fusion,Other Merch,4/28/2022,Novki,8244
+0e03cde4-afde-4d9d-a401-d3f20c100016,Festiva,Watch,09-03-2022,Narawayong,5625
+b147ebb9-1ca2-4216-86a1-1e1f61194ae8,JUKE,Watch,12/26/2022,Ankazoabo,2640
+591ed7ae-ed04-4dd4-aea1-3bcf71b980f9,LaCrosse,Eyewear,1/23/2022,Carigara,1742
+9edb0b63-a82b-4e53-9806-f2af4ed430ad,Challenger,Headwear,03-10-2022,Zhenkou,9598
+152cecbd-42e8-44ee-9686-26e935e3386d,62,Eyewear,03-07-2022,Sanjō,7726
+65fea036-b9cd-4b4e-81c3-cf1fa01c88ab,Exige,Other Merch,2/19/2022,Kashima-shi,7319
+a97c16f5-8f04-4ec8-8107-c77fa6a5d9b0,RX-8,Eyewear,5/18/2022,Atlanta,7215
+b54a479f-b835-4af4-9b69-b0f9f52e258b,Camry,Headwear,11-12-2022,Ballybofey,2442
+4038a1e1-7074-4792-b0c9-92bc791a386d,FJ Cruiser,Eyewear,7/17/2022,Mutengene,9314
+55b52fa7-bb6d-427d-839f-9e1ab2ed9ab3,GTI,Watch,11-06-2022,Ambelókipoi,1248
+c681a82e-eb7b-45c0-adf1-ce5e61c903d6,Somerset,Watch,8/14/2022,Sholokhove,6197
+6ede6e24-b1e2-49f3-9c76-a357ba5c873c,Montero,Other Merch,07-09-2022,Yangping,5254
+5e3eac72-e3bd-4450-9b6c-d3d43bd7e9d8,Ridgeline,Headwear,2/23/2022,Fuvahmulah,1281
+5c0861ef-713a-4416-a418-e9c98abe3060,Montego,Watch,12/26/2022,San Isidro,5099
+02c862e8-4c0d-4680-b576-ca64ae72caab,B-Series,Watch,5/23/2022,Boden,5392
+b9fa2c18-a6d5-4330-bfff-6057030f430c,Tundra,Headwear,11-03-2022,Dogondoutchi,8539
+e18d09b0-a778-4920-baf9-1164810d7980,Fox,Eyewear,8/31/2022,Uiasa,3302
+51732429-0e76-45b0-9071-929926f7fdef,Chariot,Eyewear,7/19/2022,Kadugede,9917
+29f5bba7-206c-499c-bba9-b70fbd5b770b,Element,Other Merch,9/28/2022,Rennes,6040
+749f3138-032e-4ff6-96a3-5a69e3e29d3b,Riviera,Eyewear,06-11-2022,Iracemápolis,1178
+72fd5ed4-803a-4e30-836d-5d0903a5c9f4,Raider,Watch,3/19/2022,Ratchathewi,5304
+16d3f210-123e-4051-ba32-55d2424ba2e3,XT,Eyewear,11-05-2022,Mueang Suang,2689
+17a684fa-7099-4a87-b414-e968e3791e01,7 Series,Headwear,6/17/2022,Huntington,7880
+9f167a02-9dda-418d-afde-f606ef94619d,Murano,Eyewear,6/25/2022,Capim Grosso,6868
+1d8e6efe-e614-4bdb-a3a1-e1ac9c710c1c,Range Rover,Headwear,05-08-2022,Severnyy,1929
+dce9ff76-71b2-4895-be3d-f00ad0a7d536,Grand Cherokee,Watch,6/23/2022,Balabag,5237
+fb164137-51d6-4195-b813-be468e46db65,Suburban 1500,Other Merch,11/17/2022,Angoram,7492
+32e88b2e-a13d-40e6-bd0b-7512c2019885,Lancer,Watch,1/20/2023,Buy,9375
+e3679963-cad1-43ca-918c-8a8c5453aede,CTS,Headwear,2/18/2022,Ngulakan,2651
+fb815078-d079-4339-afbe-f3a19ed651f9,NSX,Headwear,12-04-2022,Tovarnik,6893
+25fcf5ac-73c4-4550-a025-a4f76130c722,Baja,Watch,8/30/2022,Sumberjo,5985
+53f80b5f-d552-4c69-b8ef-a9511d0573e0,Expo,Headwear,09-02-2022,Buzen,3013
+c48262c6-0d40-4b25-b2cf-b21ad15f2dc5,Ram Van B150,Headwear,08-01-2022,Campurrejo,3261
+65dba683-00ff-44b5-862c-761da445625c,Sienna,Watch,04-01-2022,Balzers,1783
+ce260e48-0af1-4251-b6b5-621ff9b1c817,944,Headwear,05-02-2022,Iwo,2514
+3b5e72ef-a171-4d11-b03c-da136450a63e,Firebird,Watch,12-06-2022,Kawanoechō,3822
+81d23c4e-d06c-4cab-a954-ca4a1902f037,Stylus,Watch,06-03-2022,Concordia,5016
+f70830f8-d4f5-4925-86e2-6c3bdc37b2c0,Tacoma Xtra,Eyewear,11-06-2022,Spandaryan,7774
+943ccf63-4a60-483c-92b5-f03ac61153be,Titan,Eyewear,1/23/2022,Rio Largo,1690
+b7d534fb-9149-434f-a74d-cb43c66249a9,F430,Eyewear,04-02-2022,Itaberaba,5578
+1964edcf-a0d1-4c7e-b587-e75bc1a7bbed,Cutlass Cruiser,Other Merch,04-12-2022,Warwick,4548
+ec9e1a61-8084-43cd-b8c2-959b003f1f0b,MX-5,Watch,3/16/2022,Sangari,5564
+0cf84cd2-6fdf-4318-885f-fa52ca8aacfe,Impreza,Eyewear,01-01-2023,Smolenskaya,8585
+568513b4-257c-433c-b6c2-30906376a0c5,GTI,Headwear,5/19/2022,Seixas do Douro,5297
+89bf3928-a87d-4f36-a0c7-15563f996224,Grand Prix,Watch,8/26/2022,Bununu Kasa,7081
+d1e85d83-ad78-416e-b1a0-276b46683866,Terrain,Headwear,6/17/2022,Makapanstad,4203
+6337b188-b950-4923-9b62-b8b3ddcf21ab,3 Series,Headwear,2/22/2022,Himi,3170
+97b6420c-5db1-4f52-9d3a-9f899ec80127,Leaf,Watch,04-05-2022,Xingnong,9865
+9563768e-11ee-4e50-8c20-237ac9f5f88b,Grand Cherokee,Other Merch,01-11-2023,Perlez,6145
+d432979c-461b-4263-86bc-8b4774ec0506,Ram Van 2500,Headwear,11/17/2022,Ferreiros,4595
+a20337cb-87ad-439d-92ac-7074a5cc59fd,Econoline E250,Headwear,11/29/2022,Nakamura,5223
+abe5babf-920c-4e86-97bb-952625aa8135,X6,Eyewear,01-04-2023,Puunage,3531
+bbedd000-f2b8-4410-bccd-c631154e63c7,SC,Eyewear,3/23/2022,Toulouse,8219
+885055b1-7a73-4937-8a86-a9f3dc8933ef,Hombre Space,Other Merch,12/28/2022,Míthymna,7768
+8a52b3dc-611b-433d-b5b3-14ad1f5aadc4,100,Eyewear,12/18/2022,Mértola,3219
+2bf2bb3d-83dc-40c8-885b-7259828bfef9,Justy,Watch,1/23/2022,Stamford,5923
+2efd02aa-3215-479a-b2e4-d040926ac9ef,850,Headwear,2/19/2022,Charlemagne,4836
+7ad14ba9-11db-4f82-b994-20eb895d0804,VUE,Other Merch,06-08-2022,Birendranagar,7658
+80510d73-081c-4ed9-854b-d717a6176810,Camry,Eyewear,3/31/2022,Francisco J Mujica,6022
+62fe2b9f-e0b8-45a2-9fc7-af52fefcce79,Trooper,Other Merch,12/23/2022,Dawan,4820
+1836d310-c77f-425a-8f31-a9019125922f,Skylark,Eyewear,5/26/2022,Hongtang,4950
+dba42055-692e-4bb3-8735-e8ef6ceea85d,Cabriolet,Eyewear,4/13/2022,Chengzhong,5143
+c1a2ef88-0a66-4384-bc89-662372b5b34a,F-Series,Watch,03-06-2022,Casal Novo,2772
+87383fa3-4bb8-4f4e-bbff-43005657f742,Tracker,Watch,4/30/2022,Sol’tsy,1347
+f725ec56-56ff-4626-a0d6-cd6fd0945115,SVX,Headwear,8/19/2022,Salgado,6991
+4ec28922-8889-4371-9c29-df8b97b4781e,Land Cruiser,Headwear,3/20/2022,Zapolyarnyy,3524
+fc73f648-c012-4ec2-916b-793e6055e2a3,Mountaineer,Headwear,9/23/2022,Lindavista,5960
+120e3ab5-560d-4f10-8a25-38e2adb8aaa9,Solstice,Watch,6/27/2022,Lyudinovo,8597
+54771a09-cab8-4352-ac41-c8b020d134e1,Accord,Watch,11/23/2022,Spas-Zaulok,2764
+b482eb01-cb70-4ae5-8eed-72a5823c53eb,Tercel,Headwear,8/24/2022,Ngawi,8586
+489e729f-1203-4d0b-95cb-ec56d766cab9,Tacoma Xtra,Other Merch,05-09-2022,Nanyang,9223
+e63e2161-431f-4467-8452-61b5f2b1e4a5,Tahoe,Headwear,8/23/2022,Ngchesar Hamlet,5185
+bd9161bc-2014-4f10-b67c-f82b19017c31,Legend,Watch,02-08-2022,Xiangshi,7818
+c84e888a-472b-4f18-a7ef-d510a31f32ea,Sentra,Other Merch,04-10-2022,Kushk,4974
+bafbac0c-f819-4e92-9041-4e20cd5dcd1f,Focus,Eyewear,6/22/2022,Siedlce,3592
+04d8bcbb-6cb2-4726-99ff-c38636078a35,Park Avenue,Other Merch,9/18/2022,Mengdadazhuang,1013
+1fe3f6d6-f91a-4911-ba86-be17dec0e6d7,Spectra,Eyewear,06-08-2022,Pasirdalem,6146
+8b80aa41-2be2-4e13-aff4-860ae52b5d64,Cherokee,Headwear,10/28/2022,Kedungbacin,4033
+bd039a1e-21ed-4069-8d13-2451e4a394e2,Yaris,Watch,08-07-2022,Luopioinen,4917
+0bf5d1cd-c4f7-449c-8338-fe61d2d8d3ac,Santa Fe,Watch,10/27/2022,Chong’ansi,3113
+90d3daae-a708-431a-afc3-d15135f91b36,RL,Watch,10/13/2022,Pljevlja,6928
+4e91a0cc-7e01-40ea-8fb9-9f9119a285a8,Challenger,Eyewear,2/26/2022,Mjölby,6167
+43434e23-7b0f-440e-99d4-efe98da3c42a,Sedona,Headwear,3/28/2022,Cikadu,1202
+5f0edf22-8301-41e7-bfb7-e2a5c64c8d3c,L-Series,Other Merch,07-08-2022,Konga,7468
+5eb0b09a-0b1f-442c-b57f-31a8f566ec04,Land Cruiser,Headwear,01-07-2023,Adiaké,8740
+659922e0-7b4e-42f9-891e-1c4c40c2dc1b,Blazer,Other Merch,1/14/2023,Changning,3164
+c30f40d6-2f52-4ba4-b236-4fb854726761,Astro,Eyewear,1/28/2022,Villa Verde,8076
+ed1f6a11-78d8-4438-8c88-b35eb866b380,Elantra,Other Merch,02-11-2022,Kayan,1781
+9493bbdf-0e4f-47ef-8998-f374d881802c,911,Headwear,7/30/2022,Xinquan,9727
+eb624c31-fa14-4ecd-ae7d-2166a506215e,7 Series,Other Merch,08-08-2022,Kezileboyi,2434
+2ac66d8f-6d8e-496d-9a6a-ed4195e2a39d,Caravan,Eyewear,8/14/2022,Ust’-Isha,6283
+04bd54d2-1234-4761-bb7f-4203dc8ab9e6,TL,Watch,06-02-2022,Baoshui,7029
+f4c24d30-3a87-438f-88b3-7a89fb637067,300M,Eyewear,8/21/2022,Kriel,7658
+54c60fdf-984a-4db9-95a2-04a38ddadd7c,Altima,Headwear,3/23/2022,Sololá,1011
+840b06cb-ce37-48b8-a861-7f96d01de147,X6,Watch,08-11-2022,Punta Gorda,8546
+f3af5db9-974b-4bb8-a175-4aaa02c7f6a9,Vision,Watch,9/26/2022,Coalaque,6870
+2e47b602-091b-494f-9b8a-8ba3f649c61a,Bonneville,Other Merch,3/16/2022,Taoyuan,9144
+8960961a-f814-48be-a032-c1eef371de1c,Tiburon,Eyewear,10-04-2022,Sidem,4621
+ecdc9674-119f-4c62-aa89-b6b00ffb331c,New Beetle,Watch,12/30/2022,Seres,9103
+834f21e8-cf9d-45f9-b0f7-dac3fd4656af,Malibu,Other Merch,2/28/2022,Ponte,4399
+37e861a9-bd0b-448f-a152-bc39e7774eda,Defender Ice Edition,Other Merch,9/20/2022,pamas,9994
+f9991e34-d995-45b4-98af-367cc53bebf0,GT-R,Other Merch,9/27/2022,Skoki,6706
+785f4e00-aae7-4c94-aa37-68619b455149,Yukon,Eyewear,03-11-2022,Al Manāqil,6712
+91663cfc-1fe5-4da8-a127-73b889817baf,Land Cruiser,Watch,12/28/2022,Kiryandongo,6015
+6929f925-b4bc-4e42-a942-581d078b661b,Sierra,Eyewear,06-08-2022,Nangkasari,6050
+102e01b0-2b06-474b-bc15-ff12865cb133,Compass,Headwear,3/17/2022,Zhuanshui,5530
+887f96dd-2f1f-4e5f-a5ed-bd7c1f1ec309,1500,Eyewear,10/14/2022,Urukh,6006
+f6b219b3-8018-49a9-b4b4-3ec3a06dbe54,Rainier,Other Merch,08-03-2022,Mikhaylovsk,1909
+a6ebc992-7138-4434-9891-57dddffae215,Dakota,Other Merch,5/30/2022,Pöytyä,7119
+4d03dfd0-bbc9-43a6-80a7-8714b6e060b0,E-Class,Other Merch,02-07-2022,Yasnyy,2816
+ee19da2c-9985-457a-a912-b96a3966be7d,Tercel,Headwear,10/14/2022,Cauayan,1266
+8fb58eee-de2c-4b3f-a237-23ab35a1f631,LHS,Other Merch,9/25/2022,Temyasovo,4922
+f538d091-6bd2-47c0-8308-a7f91addf7ed,B-Series,Watch,12/28/2022,Bardīyah,3818
+1acfb97d-a115-4cb6-b6f1-79d1e53dde3f,Grand Caravan,Other Merch,12-07-2022,Atok,7797
+3a07f891-d401-4aba-af93-30390955a265,Rio,Watch,10/29/2022,Yacuiba,8101
+dc7bee4d-b076-4164-a404-0758ac4c008a,HHR Panel,Headwear,3/13/2022,Portland,9047
+1be03075-60cd-4501-ad33-f1055808d81d,A8,Headwear,5/29/2022,Xinshui,4763
+4bedbc66-9494-4ecd-b087-efebf96f770d,Expedition,Other Merch,3/29/2022,Thành Phố Hạ Long,8883
+b56cb67b-3121-4c38-a9a3-3d0502afd65b,SL-Class,Headwear,9/15/2022,Yevpatoriya,9392
+d46346a1-0564-4987-bb98-13acbb4062e9,Millenia,Watch,04-06-2022,Na Wa,2094
+9374696d-f1a4-4198-b020-2b8088da94fa,RAV4,Watch,6/25/2022,Oliveira de Baixo,8093
+3d2aeb32-25a4-4607-8090-f791cff120ab,Carens,Watch,11/16/2022,Shishan,8729
+a71fec20-cf87-4e05-b160-f040fdb34d54,500SEC,Watch,08-08-2022,Toride,2243
+25d03848-b1c0-4289-8770-f0b5ea32a804,Cavalier,Headwear,1/31/2022,Khlevnoye,5774
+d408960e-c581-454b-98f2-80381c4b1b69,Metro,Watch,5/31/2022,Tshela,3864
+48b64434-df92-4f0a-be1d-f5805de1cf9f,Landaulet,Watch,3/30/2022,Ha,5518
+29ff9369-99f9-4777-a93b-f54dc3af5bfb,Gallardo,Eyewear,7/27/2022,Langford,6643
+2778caf1-0b41-47c8-ad21-a55359edb65e,Galant,Watch,7/14/2022,Hedong,5019
+3eb9b62b-de0a-4d7d-a86d-358318ab232d,G,Other Merch,5/24/2022,Thawi Watthana,6535
+7f46a33b-c041-4181-b809-156c49eb969e,Cabriolet,Other Merch,10/22/2022,Cheongju-si,9873
+20cc7b3d-14e2-4ed0-bd1c-799f18d64457,Civic,Eyewear,1/25/2022,Sergokala,7735
+572d2cf9-b3d7-4b81-ace3-519e10ab192c,Legacy,Headwear,07-04-2022,Зуунмод,2942
+111a8c15-631e-42b9-b5de-a7e9b37937e9,Titan,Other Merch,02-04-2022,Moshenskoye,5695
+1c1a5020-5890-40f9-83e6-ca7c496c7b54,612 Scaglietti,Eyewear,3/19/2022,Biguaçu,1151
+00efb43b-ad64-4823-8298-777a1b91ff06,RX-8,Watch,07-07-2022,Qabaqçöl,4408
+4301473d-177b-46a3-bfbd-83ad40245b29,QX,Watch,10-12-2022,Bordeaux,7801
+0a5a1acb-6f7e-461f-b174-df318fcc9976,Somerset,Eyewear,10/19/2022,Hexi,5064
+afaf7d61-a8a1-4447-bcb4-5b2974737900,GTI,Eyewear,02-10-2022,Ukmerge,3033
+c0d600e4-bda1-4c2a-97eb-c4924e45648a,I,Other Merch,12/28/2022,El Suyatal,3576
+cccea2ba-5d57-4438-abbd-3158bd389bdd,Express 1500,Headwear,9/13/2022,Tipaz,1333
+72950ab6-0c46-4184-ad80-df85ecedbff2,Econoline E150,Other Merch,3/15/2022,Oslo,3351
+77581c84-fde8-4bcb-ba07-1502cc8f0a9d,TL,Watch,05-09-2022,Saltsjöbaden,2721
+b6781025-128a-4007-b197-65de6015321a,Ridgeline,Headwear,08-12-2022,Wenfang,5934
+586d61bb-ac90-47a3-bc8d-102a213c36b3,LSS,Headwear,11-08-2022,Lingyuan,9470
+7a3f915a-37f4-47a6-8b37-2325b3007fca,Vantage,Other Merch,06-02-2022,Ranua,2013
+f6f64ed6-51b6-4852-985f-b6c859596d4a,S2000,Other Merch,06-06-2022,Vanimo,1682
+897b60db-2406-4585-ae6b-6b900e5fa257,LR2,Eyewear,6/28/2022,Aţ Ţawāḩīn,4879
+10f201bd-ca3b-4e81-b055-87e299f4c034,Bronco,Watch,10/22/2022,Chalandrítsa,1526
+092eabde-32b8-44a3-9837-6486fdef5062,Impala,Other Merch,11/29/2022,Quilpué,2389
+9038f90b-d862-4603-bbc6-7dd3fa2f3ea8,911,Eyewear,11-09-2022,Francistown,5655
+e66b8bfe-7705-468b-825e-a8e62f735cac,Elantra,Eyewear,10/21/2022,Lengshuitan,9215
+ec5bd3f4-f160-4f7c-90f6-d08b8820d617,1500,Other Merch,11-06-2022,Cortez,9596
+903dd955-d863-4fb3-b312-f77875076256,Mazda2,Headwear,01-05-2023,Askim,6790
+23415f7c-0ff9-4826-8136-3141f71fb212,Bonneville,Headwear,4/24/2022,Gigant,6775
+62683853-34b7-45a7-bce8-273d1695d7df,X5,Headwear,3/15/2022,Shuguang,3932
+b9df3dbc-1e1d-4594-b056-edf31ea8daba,Corolla,Eyewear,02-06-2022,Phủ Thông,1404
+473fe1ba-724d-4a92-84c5-c675a11a22a0,Express,Headwear,1/30/2022,Nyanga,5666
+3956c987-5943-4489-8bef-04b7a00c3a50,Elantra,Other Merch,3/28/2022,Yanzhou,3837
+32385b4a-9ed6-43ba-b2d2-0e3fafbe2c54,Fiero,Eyewear,03-09-2022,Takahama,4953
+a4e33a0e-4aa1-4e5a-abad-744c4b47cb83,Econoline E350,Watch,12/18/2022,Atalaia,5301
+aa1f2136-64b7-452d-980d-377a7351609d,Elantra,Watch,09-05-2022,Serang,3489
+7a7f2532-a868-45a8-ba18-9a61fa8c3e99,626,Headwear,05-04-2022,Zhongxi,1976
+7f784a95-f7a6-437f-80eb-d69652796523,Camaro,Watch,11-11-2022,Gävle,8469
+e30175dd-9b0e-4101-a5c0-afbf75a053ca,GTO,Watch,06-06-2022,Matabao,5371
+7e5dee85-a7d3-43da-a975-97f81a0ee5bf,62,Other Merch,10/21/2022,Masvingo,4470
+a6c1285d-392b-445f-b6d3-6523ab83f05e,Durango,Watch,02-03-2022,Priekulė,2162
+289bfbae-c832-459b-be3a-f0baaae956eb,850,Watch,5/13/2022,Yaotian,9300
+bd3849ac-f2a9-4ed9-a463-24b5bf4e89be,Savana 3500,Eyewear,12/30/2022,Krajan,2761
+27745031-6848-42c2-b37b-2c15c058e18a,98,Eyewear,12-10-2022,Santo André,3029
+0654b48b-2390-45f5-a9d6-1fa5e8c9c678,Town Car,Eyewear,3/26/2022,Farafangana,9172
+5d32c706-9fbf-48d0-85f3-1df5b11de298,Matrix,Watch,03-08-2022,Souran,5990
+26da2568-a017-4873-a253-389039bb5a8d,Discovery,Eyewear,07-08-2022,Huangbu,4713
+dd74b453-eb95-4975-af43-59b2f410578b,Q,Other Merch,7/15/2022,Cisiih,2225
+832dc9e0-2640-474b-b3da-5e5dfcbf3360,Tahoe,Other Merch,7/27/2022,Ningshan Chengguanzhen,2949
+44b245c5-d6a5-4de3-9fe9-8c2d5e88bc47,NV3500,Watch,8/15/2022,Daegu,6879
+c9f4fef2-7808-4c08-83af-3b17b7bd6227,TSX,Headwear,11-09-2022,Ourinhos,9787
+893594bd-9718-435d-9101-0213af0783e8,DeVille,Headwear,05-11-2022,Las Americas,3242
+ae1cd815-f76f-4527-8202-9712b995e9ee,QX,Headwear,7/15/2022,Al Jamālīyah,9004
+08287c2d-644d-4b79-a077-e3eafe8e6fd3,Aero 8,Other Merch,11-10-2022,Đắk Glei,6909
+629e629a-9490-437f-b3cc-594e16138203,Yukon,Other Merch,10/18/2022,Zhongbu,5851
+75f43315-fb2e-45b4-aba4-926b9916dbed,Neon,Other Merch,11-01-2022,Ponyri Vtoryye,4614
+ffd2995e-838f-4ef6-bc3b-16babfb7996d,F150,Eyewear,8/28/2022,Siqian,9182
+0860f543-462f-455b-98aa-23f65c8d9910,626,Watch,07-01-2022,Zhangqiang,9202
+635786fd-38f1-4b66-bf1b-fabb8374f337,Savana 1500,Eyewear,12/25/2022,Starokorsunskaya,3889
+825f170c-63cf-4792-9a7d-399ea91524e2,Mustang,Headwear,2/24/2022,Buta Ranquil,1485
+8665d3eb-ccb7-4a66-b0f1-cce5deadd654,940,Watch,11-08-2022,"Brgy. Nalook, kalibo",7486
+9ce2c363-0d60-4e52-b0e4-52a98306cbb2,Stratus,Watch,10/26/2022,Murfreesboro,4129
+066be66a-b858-4c4f-a06c-280429abcd05,GTO,Headwear,3/20/2022,Samouco,7018
+c5d4a8df-7c68-4e34-b634-13d6a5074a68,Safari,Other Merch,12-02-2022,Jatirejo,8878
+356fe258-5445-4336-b72c-d683efb872b1,GT500,Other Merch,4/18/2022,Baiju,6602
+fac14433-5601-42bc-a415-cfe7243af37d,T100 Xtra,Other Merch,10/18/2022,Dongming,9076
+bceb7c85-6745-4c36-9612-16a83300d513,Miata MX-5,Watch,12/19/2022,Buyant,1087
+bcc15fe1-85d8-4e9d-a166-63d6db6f49dd,09-Mar,Eyewear,7/13/2022,Bakau,3144
+42676ba8-edf6-453d-9567-1fee019407cc,Thunderbird,Other Merch,1/18/2023,Bokor,4916
+8febe260-78b4-4d3a-bd7b-dd9226fe2d3e,RX-7,Watch,11-09-2022,Domont,3776
+7635267b-3be7-4fec-a454-245915abb920,Yaris,Eyewear,10-11-2022,Pexiligais,8940
+4c1346ce-656d-4155-b264-732b44429ef0,SJ,Headwear,2/16/2022,Chimen,2748
+266c0379-9e4c-4a7c-9cab-755ee6557644,Mazda5,Eyewear,8/25/2022,Aubagne,6577
+b49cb068-1bf4-487d-90a1-780c9f51dfaf,Equinox,Watch,12/14/2022,Mugi,8598
+4a5448db-4791-4022-b583-bdfb0ea8736b,Envoy,Watch,2/19/2022,Kobylanka,7044
+74f0bb8e-88c6-4727-995a-02c69d0cf8e8,Achieva,Headwear,04-09-2022,Qarqīn,4363
+0b49d5e4-6fd8-4fbd-aaeb-52b7fe032b06,Vibe,Eyewear,3/31/2022,Hualin,2163
+a25eec4e-1700-495f-80c2-832b87882a1f,Dakota,Eyewear,8/15/2022,Novyy Uoyan,3210
+88b18a5f-2a3f-47a3-8a65-ff12a7207e96,Bravada,Headwear,4/22/2022,Maroúsi,8666
+4251c817-2372-45a0-81a1-6f953712ec02,Sierra 1500,Eyewear,12-06-2022,Tours,6332
+e6e9d5a5-ee2b-416d-9929-b0aec01246fa,LX,Watch,4/24/2022,Louisville,3016
+12ce769e-c7a5-4b54-880e-376926de7e08,Odyssey,Headwear,7/26/2022,Jīsh,9881
+92c10778-b10a-435e-a137-a55f1721fa0a,Mirage,Headwear,6/16/2022,Panganiban,7999
+a0bdc090-806d-4ac0-8e49-f7a21fd685fb,Chariot,Watch,05-04-2022,Klokot,1385
+46f8f489-43fd-4819-b342-64e58b5776bd,Festiva,Watch,05-06-2022,Lemland,7392
+da2791f2-7c06-462a-a736-3a8630a6e253,Taurus,Watch,5/31/2022,Ollachea,3293
+42621d7c-6c10-4050-a5df-8273965dc678,Astro,Other Merch,12/18/2022,Montélimar,9877
+2034d28c-7b1c-47d6-abe5-a71000d82642,Thunderbird,Headwear,3/22/2022,Selishche,6771
+7d92d5de-48ba-451c-a608-17c737513c91,B-Series Plus,Watch,1/16/2023,Lubień,5796
+0f013065-300f-4823-b6f1-0450f5f96374,X5 M,Other Merch,3/17/2022,El Congo,6077
+bdd4bca0-b47f-454f-9de0-4325df2b4156,XT,Eyewear,5/22/2022,Tingsryd,1602
+ba98c66d-fd4a-42c2-898a-c1b65e934fe2,Safari,Headwear,10/15/2022,Wanurian,5445
+ee1ccb94-bbb7-4a61-ae37-a797eedbf830,Cube,Other Merch,2/19/2022,Serra,8701
+a62f4ffe-698b-4991-ac1e-6b6ea8e435fb,911,Watch,07-08-2022,Safonovo,4438
+2f88f299-862b-4a27-a6d7-675709a3fbec,Blazer,Headwear,01-06-2023,Ilihan,7115
+7eed0d03-ce28-490e-92d6-c41bf31edc8b,Navigator,Eyewear,11/14/2022,Drnje,6036
+09e39b6e-672b-4c48-b60c-d333625304d1,Canyon,Eyewear,12-02-2022,Cáceres,1862
+515c0610-6cf9-4b7c-bc56-932f2dcd6e3e,Continental,Other Merch,01-11-2023,Energetik,1410
